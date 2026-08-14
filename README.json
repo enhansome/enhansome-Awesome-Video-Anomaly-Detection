@@ -42,7 +42,7 @@
             "last_commit": "2025-03-25T04:48:55Z",
             "owner": "pipixin321",
             "repo": "HolmesVAU",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-03-23T15:37:53Z",
             "owner": "pipixin321",
             "repo": "GlanceVAD",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2024-03-10T13:55:53Z",
             "owner": "nwpu-zxr",
             "repo": "VadCLIP",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:22:54.069Z",
+    "last_updated": "2026-08-14T20:16:49.760Z",
     "original_repository": "Junxi-Chen/Awesome-Video-Anomaly-Detection",
     "original_repository_sha": "68a875e8501a243705cd953acd0f5c2382326ca5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-Anomaly-Detection",
