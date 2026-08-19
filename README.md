@@ -80,7 +80,7 @@ ICCV '25 [[paper]()]
 
 7. \[UCA] **Towards Surveillance Video-and-Language Understanding: New Dataset, Baselines, and Challenges** <a id='UCA'></a> \
    ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Towards_Surveillance_Video-and-Language_Understanding_New_Dataset_Baselines_and_Challenges_CVPR_2024_paper.pdf)]\[[code & annotation](https://github.com/Xuange923/Surveillance-Video-Understanding) ⭐ 79 | 🐛 6 | 📅 2024-04-30]\[[project](https://xuange923.github.io/Surveillance-Video-Understanding)]
+   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Towards_Surveillance_Video-and-Language_Understanding_New_Dataset_Baselines_and_Challenges_CVPR_2024_paper.pdf)]\[[code & annotation](https://github.com/Xuange923/Surveillance-Video-Understanding) ⭐ 80 | 🐛 6 | 📅 2024-04-30]\[[project](https://xuange923.github.io/Surveillance-Video-Understanding)]
 
 8. \[VAU-R1] **Advancing Video Anomaly Understanding
    via Reinforcement Fine-Tuning** <a id='VAU-R1'></a>   ![New](https://img.shields.io/badge/New⭐-417FFA)\
@@ -210,7 +210,7 @@ ICCV '25 [[paper]()]
 ## 📃 Semi-supervised VAD Papers
 
 1. \[DoTA] **DoTA: Unsupervised Detection of Traffic Anomaly in Driving Videos** \
-   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 272 | 🐛 21 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
+   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 273 | 🐛 21 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
 
 2. \[AED-MAE] **Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors** <a id="AED-MAE"></a> \
    CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf)]\[[code](https://github.com/ristea/aed-mae/tree/main) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2024-11-28]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Ristea_Self-Distilled_Masked_Auto-Encoders_CVPR_2024_supplemental.pdf)]
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

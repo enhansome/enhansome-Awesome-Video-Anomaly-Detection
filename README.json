@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804863853,
             "language": "Python",
             "last_commit": "2025-04-14T07:00:23Z",
             "owner": "jqtangust",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 778379969,
             "language": "Python",
             "last_commit": "2024-07-15T07:18:03Z",
             "owner": "lucazanella",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 900597227,
             "language": "Python",
             "last_commit": "2025-03-25T04:48:55Z",
             "owner": "pipixin321",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 827844834,
             "language": "Python",
             "last_commit": "2024-12-16T02:10:50Z",
             "owner": "Yuchen413",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 766867468,
             "language": "Python",
             "last_commit": "2026-04-14T02:04:03Z",
             "owner": "fesvhtr",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 966345851,
             "language": "Python",
             "last_commit": "2026-03-23T16:24:31Z",
             "owner": "vera-framework",
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727017626,
             "language": null,
             "last_commit": "2024-04-30T09:10:40Z",
             "owner": "Xuange923",
             "repo": "Surveillance-Video-Understanding",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 990711132,
             "language": "Python",
             "last_commit": "2026-08-04T03:27:00Z",
             "owner": "GVCLab",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 769061806,
             "language": "Python",
             "last_commit": "2025-03-23T15:37:53Z",
             "owner": "pipixin321",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 901269832,
             "language": "Python",
             "last_commit": "2025-08-11T07:29:25Z",
             "owner": "YBQian-Roy",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 807945268,
             "language": "Python",
             "last_commit": "2025-08-19T16:14:59Z",
             "owner": "rohit901",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 999285376,
             "language": "Jupyter Notebook",
             "last_commit": "2026-01-01T12:24:39Z",
             "owner": "yu2hi13",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 735493456,
             "language": null,
             "last_commit": "2024-01-07T07:30:45Z",
             "owner": "Roc-Ng",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 835872898,
             "language": "Python",
             "last_commit": "2025-05-25T06:04:20Z",
             "owner": "shengyangsun",
@@ -203,7 +217,7 @@
       "title": "🧪 New Setting Papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172420037,
             "language": "Python",
             "last_commit": "2022-07-26T10:16:24Z",
             "owner": "jx-zhong-for-academic-purpose",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607668026,
             "language": "Python",
             "last_commit": "2023-06-23T10:00:20Z",
             "owner": "ArielZc",
@@ -240,80 +256,86 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 819295246,
             "language": "Python",
             "last_commit": "2025-11-11T19:07:49Z",
             "owner": "rekkles2",
             "repo": "Fed_WSVAD",
             "stars": 27
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Vadclip] Vadclip: Adapting vision-language models for weakly supervised video anomaly detection AAAI '24 [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730506016,
+                "language": "Python",
+                "last_commit": "2024-03-10T13:55:53Z",
+                "owner": "nwpu-zxr",
+                "repo": "VadCLIP",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[PEL4VAD] Learning Prompt-Enhanced Context features for Weakly-Supervised Video Anomaly Detection TIP '24 [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661959580,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-23T02:57:40Z",
+                "owner": "yujiangpu20",
+                "repo": "PEL4VAD",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Fed-WSVAD] Federated Weakly Supervised video Anomaly Detection with Multimodal Prompt AAAI '25 [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 904172733,
+                "language": "Python",
+                "last_commit": "2025-05-27T02:22:27Z",
+                "owner": "wbfwonderful",
+                "repo": "Fed-WSVAD",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[PE-MIL] Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection CVPR '24 [paper",
+              "description": "][code][supp]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 777212209,
+                "language": null,
+                "last_commit": "2024-08-19T08:26:50Z",
+                "owner": "Junxi-Chen",
+                "repo": "PE-MIL",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prompt Involved Papers"
         }
       ],
       "title": "📃 Weakly-supervised VAD Papers"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[Vadclip] Vadclip: Adapting vision-language models for weakly supervised video anomaly detection AAAI '24 [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-10T13:55:53Z",
-            "owner": "nwpu-zxr",
-            "repo": "VadCLIP",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[PEL4VAD] Learning Prompt-Enhanced Context features for Weakly-Supervised Video Anomaly Detection TIP '24 [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-08-23T02:57:40Z",
-            "owner": "yujiangpu20",
-            "repo": "PEL4VAD",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Fed-WSVAD] Federated Weakly Supervised video Anomaly Detection with Multimodal Prompt AAAI '25 [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-27T02:22:27Z",
-            "owner": "wbfwonderful",
-            "repo": "Fed-WSVAD",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[PE-MIL] Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection CVPR '24 [paper",
-          "description": "][code][supp]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-19T08:26:50Z",
-            "owner": "Junxi-Chen",
-            "repo": "PE-MIL",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Prompt Involved Papers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -322,11 +344,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253569559,
             "language": "Python",
             "last_commit": "2023-12-28T04:29:02Z",
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -336,6 +359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 769256090,
             "language": "Python",
             "last_commit": "2024-11-28T23:23:17Z",
             "owner": "ristea",
@@ -350,6 +374,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 809660766,
             "language": "Python",
             "last_commit": "2024-06-19T17:05:15Z",
             "owner": "jakubmicorek",
@@ -364,6 +389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 650470813,
             "language": "Python",
             "last_commit": "2023-11-07T01:25:24Z",
             "owner": "zugexiaodui",
@@ -378,6 +404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 768470087,
             "language": "Jupyter Notebook",
             "last_commit": "2024-09-30T11:13:38Z",
             "owner": "AnasEmad11",
@@ -392,6 +419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 902217679,
             "language": "Python",
             "last_commit": "2025-04-14T06:53:28Z",
             "owner": "henrryzh1",
@@ -406,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 825173774,
             "language": "Python",
             "last_commit": "2025-10-25T13:12:39Z",
             "owner": "benedictstar",
@@ -420,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 864361696,
             "language": "Python",
             "last_commit": "2024-11-19T08:12:23Z",
             "owner": "AllenYLJiang",
@@ -434,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728565131,
             "language": "Python",
             "last_commit": "2024-12-03T08:39:21Z",
             "owner": "molu-ggg",
@@ -448,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1010136853,
             "language": null,
             "last_commit": "2025-07-01T01:04:39Z",
             "owner": "Bbeholder",
@@ -459,7 +491,7 @@
       "title": "📃 Semi-supervised VAD Papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -468,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 667728144,
             "language": "Jupyter Notebook",
             "last_commit": "2026-05-17T21:33:36Z",
             "owner": "aleflabo",
@@ -482,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1006910910,
             "language": "Python",
             "last_commit": "2025-10-14T13:54:39Z",
             "owner": "adelic99",
@@ -496,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 950714523,
             "language": "Python",
             "last_commit": "2025-07-08T01:36:51Z",
             "owner": "TeCSAR-UNCC",
@@ -510,6 +545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 850501364,
             "language": "Python",
             "last_commit": "2024-09-01T00:55:11Z",
             "owner": "karami7899",
@@ -521,7 +557,7 @@
       "title": "📃 Skeleton-based Papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -530,6 +566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655631331,
             "language": null,
             "last_commit": "2024-08-09T11:31:08Z",
             "owner": "KimMeen",
@@ -544,6 +581,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 588390803,
             "language": "Python",
             "last_commit": "2025-02-18T06:26:02Z",
             "owner": "Minqi824",
@@ -553,56 +591,12 @@
         }
       ],
       "title": "📑 Surveys"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏗️ Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "💽 Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Links"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Statistics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "👷🏻‍♂️ Evaluation Metrics"
-    },
-    {
-      "description": "[Video & Audio Feature Extraction]: video_features allows you to extract features from video clips, supporting a variety of modalities and extractors, i.e., S3D, R(2+1)d RGB, I3D-Net RGB + Flow, VGGish, CLIP.",
-      "items": [],
-      "title": "🛠️ Utilities"
-    },
-    {
-      "description": "uws4vad-wiki: a comprehensive benchmark table for VAD datasets and methods, frequently updated.\nVideo-Anomaly-Detection: a curated list of video anomaly detection papers.\nawesome-video-anomaly-detection: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.\nWSAD: a comprehensive collection and categorization of weakly supervised anomaly detection papers.\nawesome anomaly detection: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.\nanomaly detection resources: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.",
-      "items": [],
-      "title": "🔗 Related Repositories"
-    },
-    {
-      "description": "Special thanks to [@Zuble] for his valuable help and contributions to this project. Thanks to [@inaomIIsfarell] | [sky836] | [rekkles2] for their nomination of VAD papers.",
-      "items": [],
-      "title": "🙌🏻 Acknowledgements"
-    },
-    {
-      "description": "If you find this repository useful, please consider citing it:",
-      "items": [],
-      "title": "🔖 Citation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:00:41.732Z",
+    "last_updated": "2026-08-19T12:08:56.229Z",
     "original_repository": "Junxi-Chen/Awesome-Video-Anomaly-Detection",
+    "original_repository_id": 870982355,
     "original_repository_sha": "68a875e8501a243705cd953acd0f5c2382326ca5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-Anomaly-Detection",
     "enhanced_repository_description": null,
