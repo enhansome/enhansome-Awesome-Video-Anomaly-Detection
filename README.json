@@ -278,7 +278,7 @@
                 "last_commit": "2024-03-10T13:55:53Z",
                 "owner": "nwpu-zxr",
                 "repo": "VadCLIP",
-                "stars": 235
+                "stars": 236
               }
             },
             {
@@ -484,7 +484,7 @@
             "last_commit": "2025-07-01T01:04:39Z",
             "owner": "Bbeholder",
             "repo": "ADSM",
-            "stars": 3
+            "stars": 2
           }
         }
       ],
@@ -571,7 +571,7 @@
             "last_commit": "2024-08-09T11:31:08Z",
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 865
+            "stars": 864
           }
         },
         {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:04:17.005Z",
+    "last_updated": "2026-08-21T20:00:21.372Z",
     "original_repository": "Junxi-Chen/Awesome-Video-Anomaly-Detection",
     "original_repository_id": 870982355,
     "original_repository_sha": "68a875e8501a243705cd953acd0f5c2382326ca5",
