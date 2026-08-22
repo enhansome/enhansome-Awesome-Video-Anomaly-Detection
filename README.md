@@ -3,10 +3,10 @@
 ![GitHub License](https://img.shields.io/github/license/Junxi-Chen/Awesome-Video-Anomaly-Detection)
 ![Awesome](https://awesome.re/badge.svg)
 
-Video anomaly detection (VAD) aims to identify, understand and describe anomalous events in videos. This repository collects the latest research papers, code, datasets, seminars, utilities and related resources for VAD, ***updated every Friday***. Like this repo😄? ⭐ it and feel free to open an [issue](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/issues) ⭐ 154 | 🐛 4 | 🌐 Python | 📅 2025-07-24 for feedback.
+Video anomaly detection (VAD) aims to identify, understand and describe anomalous events in videos. This repository collects the latest research papers, code, datasets, seminars, utilities and related resources for VAD, ***updated every Friday***. Like this repo😄? ⭐ it and feel free to open an [issue](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/issues) ⭐ 155 | 🐛 4 | 🌐 Python | 📅 2025-07-24 for feedback.
 
 > \[!note]
-> Welcome to nominate VAD papers or related resources via [pull request](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/pulls) ⭐ 154 | 🐛 4 | 🌐 Python | 📅 2025-07-24! Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+> Welcome to nominate VAD papers or related resources via [pull request](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/pulls) ⭐ 155 | 🐛 4 | 🌐 Python | 📅 2025-07-24! Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ## 📌 Contents
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
