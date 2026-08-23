@@ -89,7 +89,7 @@ ICCV '25 [[paper]()]
 
 9. \[GlanceVAD] **GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection** <a id='GlanceVAD'></a> \
    ![I3D](https://img.shields.io/badge/I3D-35BF5C) ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-   ICME '25 \[[paper](https://arxiv.org/pdf/2403.06154)]\[[code & annotation](https://github.com/pipixin321/GlanceVAD) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2025-03-23]
+   ICME '25 \[[paper](https://arxiv.org/pdf/2403.06154)]\[[code & annotation](https://github.com/pipixin321/GlanceVAD) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2025-03-23]
 
 10. \[UCF-Crime-DVS] **UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural** <a id='UCF-Crime-DVS'></a> \
     ![benchmark](https://img.shields.io/badge/benchmark-548389) \
@@ -922,7 +922,7 @@ ICCV '25 [[paper]()]
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,900 | 🐛 9 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,365 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,368 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
