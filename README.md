@@ -170,7 +170,7 @@ ICCV '25 [[paper]()]
 1. \[Vadclip] **Vadclip: Adapting vision-language models for weakly supervised video anomaly detection** <a id='Vadclip'></a> \
    ![CLIP-V](https://img.shields.io/badge/CLIP--V-6d4aff)
    ![CLIP-T](https://img.shields.io/badge/CLIP--T-C3B9FA)\
-   AAAI '24 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/28423/28826)]\[[code](https://github.com/nwpu-zxr/VadCLIP) ⭐ 236 | 🐛 31 | 🌐 Python | 📅 2024-03-10]
+   AAAI '24 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/28423/28826)]\[[code](https://github.com/nwpu-zxr/VadCLIP) ⭐ 237 | 🐛 31 | 🌐 Python | 📅 2024-03-10]
 
 2. \[PEL4VAD] **Learning Prompt-Enhanced Context features for Weakly-Supervised Video Anomaly Detection** \
    ![I3D](https://img.shields.io/badge/I3D-35BF5C)
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

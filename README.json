@@ -278,7 +278,7 @@
                 "last_commit": "2024-03-10T13:55:53Z",
                 "owner": "nwpu-zxr",
                 "repo": "VadCLIP",
-                "stars": 236
+                "stars": 237
               }
             },
             {
@@ -591,10 +591,179 @@
         }
       ],
       "title": "📑 Surveys"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UCF-Crime",
+              "description": "Dropbox I3D Full Annotation & Bounding Box Annotation CVPR 18'",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234337289,
+                "language": null,
+                "last_commit": "2020-01-16T14:37:24Z",
+                "owner": "xuzero",
+                "repo": "UCFCrime_BoundingBox_Annotation",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UBnormal",
+              "description": "GoogleDrive - ☑ CVPR '22",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466986383,
+                "language": "Python",
+                "last_commit": "2022-09-29T08:41:04Z",
+                "owner": "lilygeorgescu",
+                "repo": "UBnormal",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ECVA",
+              "description": "ModelScope - - CVPR '24",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 859075279,
+                "language": "Python",
+                "last_commit": "2024-12-25T03:58:34Z",
+                "owner": "Dulpy",
+                "repo": "ECVA",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TAD",
+              "description": "GoogleDrive - - TIP '21",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222401390,
+                "language": "Python",
+                "last_commit": "2022-09-23T22:52:59Z",
+                "owner": "ktr-hubrt",
+                "repo": "WSAL",
+                "stars": 85
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Links"
+        }
+      ],
+      "title": "💽 Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uws4vad-wiki",
+          "description": "a comprehensive benchmark table for VAD datasets and methods, frequently updated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 798084125,
+            "language": "Python",
+            "last_commit": "2025-06-23T21:45:29Z",
+            "owner": "zuble",
+            "repo": "uws4vad",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video-Anomaly-Detection",
+          "description": "a curated list of video anomaly detection papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 899798795,
+            "language": "Python",
+            "last_commit": "2025-08-15T23:40:06Z",
+            "owner": "vt-le",
+            "repo": "Video-Anomaly-Detection",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-video-anomaly-detection",
+          "description": "an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209488196,
+            "language": null,
+            "last_commit": "2022-09-20T09:40:04Z",
+            "owner": "fjchange",
+            "repo": "awesome-video-anomaly-detection",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WSAD",
+          "description": "a comprehensive collection and categorization of weakly supervised anomaly detection papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 588390803,
+            "language": "Python",
+            "last_commit": "2025-02-18T06:26:02Z",
+            "owner": "Minqi824",
+            "repo": "WSAD",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome anomaly detection",
+          "description": "a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146555808,
+            "language": null,
+            "last_commit": "2022-09-20T09:33:40Z",
+            "owner": "hoya012",
+            "repo": "awesome-anomaly-detection",
+            "stars": 2900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anomaly detection resources",
+          "description": "a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133717148,
+            "language": "Python",
+            "last_commit": "2026-03-02T04:42:20Z",
+            "owner": "yzhao062",
+            "repo": "anomaly-detection-resources",
+            "stars": 9368
+          }
+        }
+      ],
+      "title": "🔗 Related Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:59:32.950Z",
+    "last_updated": "2026-08-24T14:38:22.896Z",
     "original_repository": "Junxi-Chen/Awesome-Video-Anomaly-Detection",
     "original_repository_id": 870982355,
     "original_repository_sha": "68a875e8501a243705cd953acd0f5c2382326ca5",
