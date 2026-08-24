@@ -920,9 +920,9 @@ ICCV '25 [[paper]()]
 
 [WSAD](https://github.com/yzhao062/wsad) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-02-18: a comprehensive collection and categorization of weakly supervised anomaly detection papers.
 
-[awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,900 | 🐛 9 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
+[awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,901 | 🐛 9 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,368 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,369 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 

@@ -740,7 +740,7 @@
             "last_commit": "2022-09-20T09:33:40Z",
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2900
+            "stars": 2901
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2026-03-02T04:42:20Z",
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9368
+            "stars": 9369
           }
         }
       ],
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:22.896Z",
+    "last_updated": "2026-08-24T20:04:27.674Z",
     "original_repository": "Junxi-Chen/Awesome-Video-Anomaly-Detection",
     "original_repository_id": 870982355,
     "original_repository_sha": "68a875e8501a243705cd953acd0f5c2382326ca5",
