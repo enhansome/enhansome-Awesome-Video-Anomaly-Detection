@@ -349,7 +349,7 @@
             "last_commit": "2023-12-28T04:29:02Z",
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2026-03-02T04:42:20Z",
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9368
+            "stars": 9370
           }
         }
       ],
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:03:44.527Z",
+    "last_updated": "2026-08-26T22:31:18.932Z",
     "original_repository": "Junxi-Chen/Awesome-Video-Anomaly-Detection",
     "original_repository_id": 870982355,
     "original_repository_sha": "68a875e8501a243705cd953acd0f5c2382326ca5",
