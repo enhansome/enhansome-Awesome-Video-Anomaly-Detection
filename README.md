@@ -3,10 +3,10 @@
 ![GitHub License](https://img.shields.io/github/license/Junxi-Chen/Awesome-Video-Anomaly-Detection)
 ![Awesome](https://awesome.re/badge.svg)
 
-Video anomaly detection (VAD) aims to identify, understand and describe anomalous events in videos. This repository collects the latest research papers, code, datasets, seminars, utilities and related resources for VAD, ***updated every Friday***. Like this repo😄? ⭐ it and feel free to open an [issue](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/issues) ⭐ 155 | 🐛 4 | 🌐 Python | 📅 2025-07-24 for feedback.
+Video anomaly detection (VAD) aims to identify, understand and describe anomalous events in videos. This repository collects the latest research papers, code, datasets, seminars, utilities and related resources for VAD, ***updated every Friday***. Like this repo😄? ⭐ it and feel free to open an [issue](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/issues) ⭐ 154 | 🐛 4 | 🌐 Python | 📅 2025-07-24 for feedback.
 
 > \[!note]
-> Welcome to nominate VAD papers or related resources via [pull request](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/pulls) ⭐ 155 | 🐛 4 | 🌐 Python | 📅 2025-07-24! Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+> Welcome to nominate VAD papers or related resources via [pull request](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/pulls) ⭐ 154 | 🐛 4 | 🌐 Python | 📅 2025-07-24! Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ## 📌 Contents
 
@@ -64,7 +64,7 @@ ICCV '25 [[paper]()]
 
 3. \[Holmes-VAU] **Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity** <a id='Holmes-VAU'></a> \
    ![LLM](https://img.shields.io/badge/LLM-FFA500) ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-   CVPR '25 \[[paper](https://arxiv.org/pdf/2412.06171)]\[[code & annotation](https://github.com/pipixin321/HolmesVAU) ⭐ 144 | 🐛 15 | 🌐 Python | 📅 2025-03-25]
+   CVPR '25 \[[paper](https://arxiv.org/pdf/2412.06171)]\[[code & annotation](https://github.com/pipixin321/HolmesVAU) ⭐ 145 | 🐛 15 | 🌐 Python | 📅 2025-03-25]
 
 4. \[AnomalyRuler] **Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models** \
    ![LLM](https://img.shields.io/badge/LLM-FFA500)\
@@ -916,7 +916,7 @@ ICCV '25 [[paper]()]
 
 [Video-Anomaly-Detection](https://github.com/vt-le/Video-Anomaly-Detection) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2025-08-15: a curated list of video anomaly detection papers. <a id='VAD-table'></a>    ![New](https://img.shields.io/badge/New⭐-417FFA)
 
-[awesome-video-anomaly-detection](https://github.com/fjchange/awesome-video-anomaly-detection) ⭐ 669 | 🐛 3 | 📅 2022-09-20: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.
+[awesome-video-anomaly-detection](https://github.com/fjchange/awesome-video-anomaly-detection) ⭐ 668 | 🐛 3 | 📅 2022-09-20: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.
 
 [WSAD](https://github.com/yzhao062/wsad) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-02-18: a comprehensive collection and categorization of weakly supervised anomaly detection papers.
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

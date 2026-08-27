@@ -45,7 +45,7 @@
             "last_commit": "2025-03-25T04:48:55Z",
             "owner": "pipixin321",
             "repo": "HolmesVAU",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -710,7 +710,7 @@
             "last_commit": "2022-09-20T09:40:04Z",
             "owner": "fjchange",
             "repo": "awesome-video-anomaly-detection",
-            "stars": 669
+            "stars": 668
           }
         },
         {
@@ -763,9 +763,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:31:18.932Z",
-    "original_repository": "Junxi-Chen/Awesome-Video-Anomaly-Detection",
-    "original_repository_id": 870982355,
+    "last_updated": "2026-08-27T11:27:42.783Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 870982355,
+      "language": "Python",
+      "last_commit": "2025-07-24T05:40:11Z",
+      "owner": "Junxi-Chen",
+      "repo": "Awesome-Video-Anomaly-Detection",
+      "stars": 154
+    },
     "original_repository_sha": "68a875e8501a243705cd953acd0f5c2382326ca5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-Anomaly-Detection",
     "enhanced_repository_description": null,
