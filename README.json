@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥[NeurIPS 2024] Official Implementation of Hawk: Learning to Understand Open-World Video Anomalies ",
+            "homepage": "https://huggingface.co/spaces/Jiaqi-hkust/hawk",
             "id": 804863853,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-14T07:00:23Z",
+            "open_issues": 2,
             "owner": "jqtangust",
             "repo": "hawk",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "anomaly",
+              "anomaly-detection",
+              "large-vision-language-model",
+              "video",
+              "video-anomaly-detection",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -26,12 +38,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of \"Harnessing Large Language Models for Training-free Video Anomaly Detection\", CVPR 2024",
+            "homepage": "https://lucazanella.github.io/lavad/",
             "id": 778379969,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-15T07:18:03Z",
+            "open_issues": 3,
             "owner": "lucazanella",
             "repo": "lavad",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -42,12 +59,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025 Highlight] Official implementation of \"Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity\"",
+            "homepage": "https://arxiv.org/abs/2412.06171",
             "id": 900597227,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-25T04:48:55Z",
+            "open_issues": 15,
             "owner": "pipixin321",
             "repo": "HolmesVAU",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "benchmarks",
+              "instruction-tuning",
+              "multi-granularity-dataset",
+              "multimodal-large-language-models",
+              "video-analysis",
+              "video-anomaly-detection"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -58,12 +87,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for paper \"Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Model\"",
+            "homepage": null,
             "id": 827844834,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-16T02:10:50Z",
+            "open_issues": 5,
             "owner": "Yuchen413",
             "repo": "AnomalyRuler",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -74,12 +108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] Official repository of the paper \"Uncovering What, Why and How:  A Comprehensive Benchmark for Causation Understanding of Video Anomaly\" ",
+            "homepage": null,
             "id": 766867468,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-14T02:04:03Z",
+            "open_issues": 1,
             "owner": "fesvhtr",
             "repo": "CUVA",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -90,12 +129,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code repo for the paper VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models (CVPR 2025).",
+            "homepage": null,
             "id": 966345851,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-23T16:24:31Z",
+            "open_issues": 0,
             "owner": "vera-framework",
             "repo": "VERA",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "automatic-prompt-tuning",
+              "video-anomaly-detection",
+              "vision-language-models"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -106,12 +154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official project page of the paper \"Towards Surveillance Video-and-Language Understanding: New Dataset, Baselines, and Challenges\" (Accepted by CVPR 2024)",
+            "homepage": null,
             "id": 727017626,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-30T09:10:40Z",
+            "open_issues": 6,
             "owner": "Xuange923",
             "repo": "Surveillance-Video-Understanding",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -122,12 +175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of \"VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning\".",
+            "homepage": null,
             "id": 990711132,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-04T03:27:00Z",
+            "open_issues": 1,
             "owner": "GVCLab",
             "repo": "VAU-R1",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -138,12 +196,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICME 2025 Oral] Official implementation of \"GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection\"",
+            "homepage": "https://arxiv.org/abs/2403.06154",
             "id": 769061806,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-23T15:37:53Z",
+            "open_issues": 1,
             "owner": "pipixin321",
             "repo": "GlanceVAD",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "deep-learning",
+              "multi-instance-learning",
+              "point-supervision",
+              "video",
+              "video-anomaly-detection",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -154,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 901269832,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-11T07:29:25Z",
+            "open_issues": 4,
             "owner": "YBQian-Roy",
             "repo": "UCF-Crime-DVS",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -170,12 +245,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NAACL'25] Contains code and documentation for our VANE-Bench paper.",
+            "homepage": "https://hananshafi.github.io/vane-benchmark/",
             "id": 807945268,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-19T16:14:59Z",
+            "open_issues": 1,
             "owner": "rohit901",
             "repo": "VANE-Bench",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "benchmark-datasets",
+              "large-language-models",
+              "large-multimodal-models",
+              "multimodal-deep-learning",
+              "multimodal-large-language-models",
+              "video-anomaly-detection"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -186,12 +273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for TAO (CVPR 2025)",
+            "homepage": null,
             "id": 999285376,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-01-01T12:24:39Z",
+            "open_issues": 1,
             "owner": "yu2hi13",
             "repo": "TAO",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -202,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 735493456,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-07T07:30:45Z",
+            "open_issues": 1,
             "owner": "Roc-Ng",
             "repo": "VAR",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -218,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of \"TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection\"",
+            "homepage": null,
             "id": 835872898,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-25T06:04:20Z",
+            "open_issues": 4,
             "owner": "shengyangsun",
             "repo": "TDSD",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         }
@@ -240,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source codes of our paper in CVPR 2019:  Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection",
+            "homepage": null,
             "id": 172420037,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-26T10:16:24Z",
+            "open_issues": 16,
             "owner": "jx-zhong-for-academic-purpose",
             "repo": "GCN-Anomaly-Detection",
-            "stars": 240
+            "stars": 240,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -256,12 +363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] Official code for paper: Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection",
+            "homepage": null,
             "id": 607668026,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-23T10:00:20Z",
+            "open_issues": 3,
             "owner": "ArielZc",
             "repo": "CU-Net",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -272,12 +384,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[IEEE TII 2025] Official Implementation for \"Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping\"",
+            "homepage": "https://rekkles2.github.io/Fed_WSVAD/",
             "id": 819295246,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-11T19:07:49Z",
+            "open_issues": 0,
             "owner": "rekkles2",
             "repo": "Fed_WSVAD",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "abnormal-events",
+              "adapter",
+              "computer-vision",
+              "deep-learning",
+              "edge-ai",
+              "edge-computing",
+              "federated-learning",
+              "flower",
+              "novelty-detection",
+              "nvidia-jetson-xavier",
+              "papers",
+              "sota-model",
+              "surveillance-video",
+              "video-anomaly-detection",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -290,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VadCLIP official Pytorch implementation",
+                "homepage": null,
                 "id": 730506016,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-10T13:55:53Z",
+                "open_issues": 31,
                 "owner": "nwpu-zxr",
                 "repo": "VadCLIP",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
             },
@@ -306,12 +444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for \"Learning Prompt-Enhanced Context features for Weakly-Supervised Video Anomlay Detection\" (IEEE-TIP)",
+                "homepage": null,
                 "id": 661959580,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-08-23T02:57:40Z",
+                "open_issues": 5,
                 "owner": "yujiangpu20",
                 "repo": "PEL4VAD",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
             },
@@ -322,12 +465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for \"Federated Weakly Supervised Video Anomaly Detection with Multimodal Prompt\" (AAAI2025)",
+                "homepage": null,
                 "id": 904172733,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-27T02:22:27Z",
+                "open_issues": 4,
                 "owner": "wbfwonderful",
                 "repo": "Fed-WSVAD",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
             },
@@ -338,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Official code for paper: Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection.",
+                "homepage": null,
                 "id": 777212209,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-19T08:26:50Z",
+                "open_issues": 6,
                 "owner": "Junxi-Chen",
                 "repo": "PE-MIL",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
             }
@@ -365,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the repo for our Detection of Traffic Anomaly (DoTA) dataset.",
+            "homepage": null,
             "id": 253569559,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-28T04:29:02Z",
+            "open_issues": 21,
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
-            "stars": 274
+            "stars": 274,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -381,12 +539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 769256090,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-28T23:23:17Z",
+            "open_issues": 11,
             "owner": "ristea",
             "repo": "aed-mae",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -397,12 +560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] Toy example of MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection",
+            "homepage": null,
             "id": 809660766,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-19T17:05:15Z",
+            "open_issues": 7,
             "owner": "jakubmicorek",
             "repo": "MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -413,12 +581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 650470813,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-07T01:25:24Z",
+            "open_issues": 1,
             "owner": "zugexiaodui",
             "repo": "campus_vad_code",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -429,12 +602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline",
+            "homepage": null,
             "id": 768470087,
             "language": "Jupyter Notebook",
+            "license": "GPL-2.0",
             "last_commit": "2024-09-30T11:13:38Z",
+            "open_issues": 0,
             "owner": "AnasEmad11",
             "repo": "CLAP",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -445,12 +623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model",
+            "homepage": null,
             "id": 902217679,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-14T06:53:28Z",
+            "open_issues": 4,
             "owner": "henrryzh1",
             "repo": "MA-PDM",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -461,12 +644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code for the Paper \"Interleaving One-Class and Weakly-Supervised Models with Adaptive Thresholding for Unsupervised Video Anomaly Detection\"",
+            "homepage": null,
             "id": 825173774,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-25T13:12:39Z",
+            "open_issues": 1,
             "owner": "benedictstar",
             "repo": "Joint-VAD",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -477,12 +665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 864361696,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-19T08:12:23Z",
+            "open_issues": 0,
             "owner": "AllenYLJiang",
             "repo": "Local-Patterns-Generalize-Better",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -493,12 +686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 728565131,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-03T08:39:21Z",
+            "open_issues": 2,
             "owner": "molu-ggg",
             "repo": "GENet",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -509,12 +707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV25] Autoregressive Denoising Score Matching is a Good Video Anomaly Detector",
+            "homepage": null,
             "id": 1010136853,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-07-01T01:04:39Z",
+            "open_issues": 1,
             "owner": "Bbeholder",
             "repo": "ADSM",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         }
@@ -531,12 +734,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official PyTorch implementation of the IEEE/CVF International Conference on Computer Vision (ICCV) '23 paper Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection.",
+            "homepage": "https://openaccess.thecvf.com/content/ICCV2023/html/Flaborea_Multimodal_Motion_Conditioned_Diffusion_Model_for_Skeleton-based_Video_Anomaly_Detection_ICCV_2023_paper.html",
             "id": 667728144,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-05-17T21:33:36Z",
+            "open_issues": 2,
             "owner": "aleflabo",
             "repo": "MoCoDAD",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "anomaly-detection",
+              "artificial-intelligence",
+              "computer-vision",
+              "gcn",
+              "iccv"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -547,12 +761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1006910910,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-14T13:54:39Z",
+            "open_issues": 3,
             "owner": "adelic99",
             "repo": "seeker",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -563,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the self-supervised anomaly detection algorithm SPARTA.",
+            "homepage": null,
             "id": 950714523,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-08T01:36:51Z",
+            "open_issues": 2,
             "owner": "TeCSAR-UNCC",
             "repo": "SPARTA",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -579,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official PyTorch implementation of the Winter Conference on Applications of Computer Vision (\"WACV\") '25 paper",
+            "homepage": null,
             "id": 850501364,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-01T00:55:11Z",
+            "open_issues": 0,
             "owner": "karami7899",
             "repo": "Graph-Jigsaw-Conditioned-Diffusion-Model-for-Skeleton-based-Video-Anomaly-Detection",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         }
@@ -601,12 +830,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TPAMI 2024] Awesome Resources of GNNs for Time Series Analysis (GNN4TS)",
+            "homepage": "https://arxiv.org/abs/2307.03759",
             "id": 655631331,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-09T11:31:08Z",
+            "open_issues": 3,
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 863
+            "stars": 863,
+            "topics": [
+              "awesome",
+              "dynamic-graphs",
+              "graph-neural-networks",
+              "graph-structure-learning",
+              "spatial-temporal-data",
+              "spatial-temporal-forecasting",
+              "survey",
+              "temporal-data",
+              "temporal-graphs",
+              "time-series",
+              "time-series-analysis",
+              "time-series-anomaly-detection",
+              "time-series-classification",
+              "time-series-forecasting",
+              "time-series-imputation"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -617,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Collection of Resources for Weakly-supervised Anomaly Detection (WSAD)",
+            "homepage": null,
             "id": 588390803,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-18T06:26:02Z",
+            "open_issues": 1,
             "owner": "Minqi824",
             "repo": "WSAD",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         }
@@ -641,12 +896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UCFCrime Annotation",
+                "homepage": null,
                 "id": 234337289,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-01-16T14:37:24Z",
+                "open_issues": 4,
                 "owner": "xuzero",
                 "repo": "UCFCrime_BoundingBox_Annotation",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
             },
@@ -657,12 +917,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection",
+                "homepage": null,
                 "id": 466986383,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-29T08:41:04Z",
+                "open_issues": 3,
                 "owner": "lilygeorgescu",
                 "repo": "UBnormal",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "anomaly-detection",
+                  "computer-vision",
+                  "computer-vision-datasets",
+                  "dataset",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
             },
@@ -673,12 +944,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of the paper \"Exploring What Why and How: A Multifaceted Benchmark for Causation Understanding of Video Anomaly\"",
+                "homepage": null,
                 "id": 859075279,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-25T03:58:34Z",
+                "open_issues": 9,
                 "owner": "Dulpy",
                 "repo": "ECVA",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
             },
@@ -689,12 +965,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official codes for paper: Localizing Anomalies from Weakly-Labeled Videos",
+                "homepage": null,
                 "id": 222401390,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-23T22:52:59Z",
+                "open_issues": 15,
                 "owner": "ktr-hubrt",
                 "repo": "WSAL",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
             }
@@ -716,12 +997,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified WorkStation 4 Video Anomaly Detection ",
+            "homepage": null,
             "id": 798084125,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-23T21:45:29Z",
+            "open_issues": 0,
             "owner": "zuble",
             "repo": "uws4vad",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "vad"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -732,12 +1020,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Video Anomaly Detection",
+            "homepage": null,
             "id": 899798795,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-15T23:40:06Z",
+            "open_issues": 0,
             "owner": "vt-le",
             "repo": "Video-Anomaly-Detection",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "anomaly",
+              "anomaly-detection",
+              "awesome",
+              "surveillance",
+              "survey",
+              "videoanomalydetection"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -748,12 +1048,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Papers for Video Anomaly Detection, released codes collection, Performance Comparision.",
+            "homepage": null,
             "id": 209488196,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-20T09:40:04Z",
+            "open_issues": 3,
             "owner": "fjchange",
             "repo": "awesome-video-anomaly-detection",
-            "stars": 668
+            "stars": 668,
+            "topics": [
+              "abnormal-events",
+              "anomalies",
+              "awesome",
+              "deep-learning",
+              "detection",
+              "novelty-detection",
+              "papers",
+              "surveillance-videos",
+              "video-anomaly-detection"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -764,12 +1079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Collection of Resources for Weakly-supervised Anomaly Detection (WSAD)",
+            "homepage": null,
             "id": 588390803,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-18T06:26:02Z",
+            "open_issues": 1,
             "owner": "Minqi824",
             "repo": "WSAD",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -780,12 +1100,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome anomaly detection resources",
+            "homepage": null,
             "id": 146555808,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-20T09:33:40Z",
+            "open_issues": 9,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2901
+            "stars": 2901,
+            "topics": [
+              "anomaly",
+              "anomaly-detection",
+              "anomalydetection",
+              "awesome",
+              "awesome-anomaly-detection",
+              "awesomeanomalydetection",
+              "deep-learning",
+              "machine-learning",
+              "machinelearning"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -796,12 +1131,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!",
+            "homepage": null,
             "id": 133717148,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-02T04:42:20Z",
+            "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9370
+            "stars": 9370,
+            "topics": [
+              "anomaly-detection",
+              "awesome",
+              "awesome-list",
+              "data-mining",
+              "fraud",
+              "fraud-detection",
+              "graph-neural-networks",
+              "large-language-models",
+              "llm",
+              "machine-learning",
+              "outlier",
+              "outlier-detection",
+              "outlier-ensembles",
+              "time-series-analysis",
+              "unsupervised-learning",
+              "vlm",
+              "vlms"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         }
@@ -810,15 +1168,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:28:12.306Z",
+    "last_updated": "2026-08-29T04:56:42.583Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
+      "homepage": null,
       "id": 870982355,
       "language": "Python",
+      "license": "AGPL-3.0",
       "last_commit": "2025-07-24T05:40:11Z",
+      "open_issues": 4,
       "owner": "Junxi-Chen",
       "repo": "Awesome-Video-Anomaly-Detection",
-      "stars": 154
+      "stars": 154,
+      "topics": [
+        "anomaly-detection",
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "surveillance-videos",
+        "video-anomaly-detection"
+      ]
     },
     "original_repository_sha": "68a875e8501a243705cd953acd0f5c2382326ca5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-Anomaly-Detection",
