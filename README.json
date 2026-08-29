@@ -527,7 +527,7 @@
             "open_issues": 21,
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:56:42.583Z",
+    "last_updated": "2026-08-29T21:59:19.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",

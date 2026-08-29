@@ -210,7 +210,7 @@ ICCV '25 [[paper]()]
 ## 📃 Semi-supervised VAD Papers
 
 1. \[DoTA] **DoTA: Unsupervised Detection of Traffic Anomaly in Driving Videos** \
-   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 274 | 🐛 21 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
+   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 275 | 🐛 21 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
 
 2. \[AED-MAE] **Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors** <a id="AED-MAE"></a> \
    CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf)]\[[code](https://github.com/ristea/aed-mae/tree/main) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2024-11-28]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Ristea_Self-Distilled_Masked_Auto-Encoders_CVPR_2024_supplemental.pdf)]
