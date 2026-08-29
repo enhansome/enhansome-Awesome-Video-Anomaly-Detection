@@ -16,7 +16,8 @@
             "owner": "jqtangust",
             "repo": "hawk",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "lucazanella",
             "repo": "lavad",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "pipixin321",
             "repo": "HolmesVAU",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Yuchen413",
             "repo": "AnomalyRuler",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "fesvhtr",
             "repo": "CUVA",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "vera-framework",
             "repo": "VERA",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Xuange923",
             "repo": "Surveillance-Video-Understanding",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "GVCLab",
             "repo": "VAU-R1",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "pipixin321",
             "repo": "GlanceVAD",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "YBQian-Roy",
             "repo": "UCF-Crime-DVS",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "rohit901",
             "repo": "VANE-Bench",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "yu2hi13",
             "repo": "TAO",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "Roc-Ng",
             "repo": "VAR",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "shengyangsun",
             "repo": "TDSD",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         }
       ],
       "title": "🧪 New Setting Papers"
@@ -232,7 +246,8 @@
             "owner": "jx-zhong-for-academic-purpose",
             "repo": "GCN-Anomaly-Detection",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "ArielZc",
             "repo": "CU-Net",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "rekkles2",
             "repo": "Fed_WSVAD",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "children": [
@@ -279,7 +296,8 @@
                 "owner": "nwpu-zxr",
                 "repo": "VadCLIP",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-29T02:28:12.306Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "yujiangpu20",
                 "repo": "PEL4VAD",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-29T02:28:12.306Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "wbfwonderful",
                 "repo": "Fed-WSVAD",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:28:12.306Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "Junxi-Chen",
                 "repo": "PE-MIL",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:28:12.306Z"
             }
           ],
           "description": null,
@@ -350,7 +371,8 @@
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -365,7 +387,8 @@
             "owner": "ristea",
             "repo": "aed-mae",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -380,7 +403,8 @@
             "owner": "jakubmicorek",
             "repo": "MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -395,7 +419,8 @@
             "owner": "zugexiaodui",
             "repo": "campus_vad_code",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -410,7 +435,8 @@
             "owner": "AnasEmad11",
             "repo": "CLAP",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -425,7 +451,8 @@
             "owner": "henrryzh1",
             "repo": "MA-PDM",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -440,7 +467,8 @@
             "owner": "benedictstar",
             "repo": "Joint-VAD",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -455,7 +483,8 @@
             "owner": "AllenYLJiang",
             "repo": "Local-Patterns-Generalize-Better",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -470,7 +499,8 @@
             "owner": "molu-ggg",
             "repo": "GENet",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -485,7 +515,8 @@
             "owner": "Bbeholder",
             "repo": "ADSM",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         }
       ],
       "title": "📃 Semi-supervised VAD Papers"
@@ -506,7 +537,8 @@
             "owner": "aleflabo",
             "repo": "MoCoDAD",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -521,7 +553,8 @@
             "owner": "adelic99",
             "repo": "seeker",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -536,7 +569,8 @@
             "owner": "TeCSAR-UNCC",
             "repo": "SPARTA",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -551,7 +585,8 @@
             "owner": "karami7899",
             "repo": "Graph-Jigsaw-Conditioned-Diffusion-Model-for-Skeleton-based-Video-Anomaly-Detection",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         }
       ],
       "title": "📃 Skeleton-based Papers"
@@ -572,7 +607,8 @@
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
             "stars": 863
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -587,7 +623,8 @@
             "owner": "Minqi824",
             "repo": "WSAD",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         }
       ],
       "title": "📑 Surveys"
@@ -610,7 +647,8 @@
                 "owner": "xuzero",
                 "repo": "UCFCrime_BoundingBox_Annotation",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:28:12.306Z"
             },
             {
               "node_type": "item",
@@ -625,7 +663,8 @@
                 "owner": "lilygeorgescu",
                 "repo": "UBnormal",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-29T02:28:12.306Z"
             },
             {
               "node_type": "item",
@@ -640,7 +679,8 @@
                 "owner": "Dulpy",
                 "repo": "ECVA",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-29T02:28:12.306Z"
             },
             {
               "node_type": "item",
@@ -655,7 +695,8 @@
                 "owner": "ktr-hubrt",
                 "repo": "WSAL",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T02:28:12.306Z"
             }
           ],
           "description": null,
@@ -681,7 +722,8 @@
             "owner": "zuble",
             "repo": "uws4vad",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -696,7 +738,8 @@
             "owner": "vt-le",
             "repo": "Video-Anomaly-Detection",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -711,7 +754,8 @@
             "owner": "fjchange",
             "repo": "awesome-video-anomaly-detection",
             "stars": 668
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -726,7 +770,8 @@
             "owner": "Minqi824",
             "repo": "WSAD",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -741,7 +786,8 @@
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
             "stars": 2901
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         },
         {
           "node_type": "item",
@@ -756,14 +802,15 @@
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
             "stars": 9370
-          }
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
         }
       ],
       "title": "🔗 Related Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:55.297Z",
+    "last_updated": "2026-08-29T02:28:12.306Z",
     "original_repository_info": {
       "archived": false,
       "id": 870982355,
