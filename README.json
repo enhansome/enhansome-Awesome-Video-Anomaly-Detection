@@ -68,7 +68,7 @@
             "open_issues": 15,
             "owner": "pipixin321",
             "repo": "HolmesVAU",
-            "stars": 145,
+            "stars": 144,
             "topics": [
               "benchmarks",
               "instruction-tuning",
@@ -96,7 +96,7 @@
             "open_issues": 5,
             "owner": "Yuchen413",
             "repo": "AnomalyRuler",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -632,7 +632,7 @@
             "open_issues": 4,
             "owner": "henrryzh1",
             "repo": "MA-PDM",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1029,7 +1029,7 @@
             "open_issues": 0,
             "owner": "vt-le",
             "repo": "Video-Anomaly-Detection",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1140,7 +1140,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9370,
+            "stars": 9368,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:59:19.627Z",
+    "last_updated": "2026-08-30T22:06:38.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
