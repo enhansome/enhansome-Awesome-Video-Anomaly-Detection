@@ -163,7 +163,7 @@
             "open_issues": 6,
             "owner": "Xuange923",
             "repo": "Surveillance-Video-Understanding",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -974,7 +974,7 @@
                 "open_issues": 15,
                 "owner": "ktr-hubrt",
                 "repo": "WSAL",
-                "stars": 85,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1109,7 +1109,7 @@
             "open_issues": 9,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2901,
+            "stars": 2902,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1140,7 +1140,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9368,
+            "stars": 9370,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:06:38.994Z",
+    "last_updated": "2026-08-31T23:26:11.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
