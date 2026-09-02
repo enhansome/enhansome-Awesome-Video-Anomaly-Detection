@@ -569,7 +569,7 @@
             "open_issues": 7,
             "owner": "jakubmicorek",
             "repo": "MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -974,7 +974,7 @@
                 "open_issues": 15,
                 "owner": "ktr-hubrt",
                 "repo": "WSAL",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1109,7 +1109,7 @@
             "open_issues": 9,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2903,
+            "stars": 2904,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1140,7 +1140,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9373,
+            "stars": 9375,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:05:52.506Z",
+    "last_updated": "2026-09-02T21:59:41.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
