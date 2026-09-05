@@ -1109,7 +1109,7 @@
             "open_issues": 9,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2904,
+            "stars": 2903,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:51:25.614Z",
+    "last_updated": "2026-09-05T21:44:03.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
