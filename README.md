@@ -908,7 +908,7 @@ ICCV '25 [[paper]()]
 
 ## 🛠️ Utilities
 
-\[Video & Audio Feature Extraction]: [video\_features](https://github.com/v-iashin/video_features) ⭐ 655 | 🐛 27 | 🌐 Python | 📅 2026-02-01 allows you to extract features from video clips, supporting a variety of modalities and extractors, i.e., S3D, R(2+1)d RGB,  I3D-Net RGB + Flow, VGGish, CLIP.
+\[Video & Audio Feature Extraction]: [video\_features](https://github.com/v-iashin/video_features) ⭐ 656 | 🐛 27 | 🌐 Python | 📅 2026-02-01 allows you to extract features from video clips, supporting a variety of modalities and extractors, i.e., S3D, R(2+1)d RGB,  I3D-Net RGB + Flow, VGGish, CLIP.
 
 ## 🔗 Related Repositories
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
