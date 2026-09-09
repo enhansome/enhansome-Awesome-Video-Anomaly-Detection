@@ -607,7 +607,7 @@
             "id": 768470087,
             "language": "Jupyter Notebook",
             "license": "GPL-2.0",
-            "last_commit": "2024-09-30T11:13:38Z",
+            "last_commit": "2026-09-09T15:55:07Z",
             "open_issues": 0,
             "owner": "AnasEmad11",
             "repo": "CLAP",
@@ -1140,7 +1140,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9374,
+            "stars": 9377,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:02:38.871Z",
+    "last_updated": "2026-09-09T21:59:06.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
