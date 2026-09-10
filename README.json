@@ -163,7 +163,7 @@
             "open_issues": 6,
             "owner": "Xuange923",
             "repo": "Surveillance-Video-Understanding",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -569,7 +569,7 @@
             "open_issues": 7,
             "owner": "jakubmicorek",
             "repo": "MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection",
-            "stars": 55,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1029,7 +1029,7 @@
             "open_issues": 0,
             "owner": "vt-le",
             "repo": "Video-Anomaly-Detection",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1140,7 +1140,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9377,
+            "stars": 9378,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:59:06.195Z",
+    "last_updated": "2026-09-10T21:56:37.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",

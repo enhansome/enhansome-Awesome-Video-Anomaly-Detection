@@ -80,7 +80,7 @@ ICCV '25 [[paper]()]
 
 7. \[UCA] **Towards Surveillance Video-and-Language Understanding: New Dataset, Baselines, and Challenges** <a id='UCA'></a> \
    ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Towards_Surveillance_Video-and-Language_Understanding_New_Dataset_Baselines_and_Challenges_CVPR_2024_paper.pdf)]\[[code & annotation](https://github.com/Xuange923/Surveillance-Video-Understanding) ⭐ 81 | 🐛 6 | 📅 2024-04-30]\[[project](https://xuange923.github.io/Surveillance-Video-Understanding)]
+   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Towards_Surveillance_Video-and-Language_Understanding_New_Dataset_Baselines_and_Challenges_CVPR_2024_paper.pdf)]\[[code & annotation](https://github.com/Xuange923/Surveillance-Video-Understanding) ⭐ 82 | 🐛 6 | 📅 2024-04-30]\[[project](https://xuange923.github.io/Surveillance-Video-Understanding)]
 
 8. \[VAU-R1] **Advancing Video Anomaly Understanding
    via Reinforcement Fine-Tuning** <a id='VAU-R1'></a>   ![New](https://img.shields.io/badge/New⭐-417FFA)\
@@ -217,7 +217,7 @@ ICCV '25 [[paper]()]
 
 3. \[MULDE] **MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for  Video Anomaly Detection** <a id="MULDE"></a> \
    ![CLIP-V](https://img.shields.io/badge/CLIP--V-6d4aff) ![Hiera-L](https://img.shields.io/badge/Hiera--L-25D366) \
-   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Micorek_MULDE_Multiscale_Log-Density_Estimation_via_Denoising_Score_Matching_for_Video_CVPR_2024_paper.pdf)]\[[code](https://github.com/jakubmicorek/MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection) ⭐ 55 | 🐛 7 | 🌐 Python | 📅 2024-06-19]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Micorek_MULDE_Multiscale_Log-Density_CVPR_2024_supplemental.pdf)]
+   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Micorek_MULDE_Multiscale_Log-Density_Estimation_via_Denoising_Score_Matching_for_Video_CVPR_2024_paper.pdf)]\[[code](https://github.com/jakubmicorek/MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection) ⭐ 56 | 🐛 7 | 🌐 Python | 📅 2024-06-19]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Micorek_MULDE_Multiscale_Log-Density_CVPR_2024_supplemental.pdf)]
 
 4. \[SSAE] **Scene-Dependent Prediction in Latent Space for Video Anomaly Detection and Anticipation** <a id="SSAE"></a> \
    T-PAMI '24\[[paper](https://ieeexplore.ieee.org/abstract/document/10681297/)]\[[project](https://campusvaa.github.io)]\[[code](https://github.com/zugexiaodui/campus_vad_code) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2023-11-07]\[[dataset](https://drive.google.com/drive/folders/1_EztmkNpTPyVb4lM0m4rLTXgXo_LzgF1?usp=share_link)]
@@ -914,7 +914,7 @@ ICCV '25 [[paper]()]
 
 [uws4vad-wiki](https://github.com/zuble/uws4vad/wiki/Meth) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-23: a comprehensive benchmark table for VAD datasets and methods, frequently updated. <a id='uws4vad'></a>    ![New](https://img.shields.io/badge/New⭐-417FFA)
 
-[Video-Anomaly-Detection](https://github.com/vt-le/Video-Anomaly-Detection) ⭐ 139 | 🐛 0 | 🌐 Python | 📅 2025-08-15: a curated list of video anomaly detection papers. <a id='VAD-table'></a>    ![New](https://img.shields.io/badge/New⭐-417FFA)
+[Video-Anomaly-Detection](https://github.com/vt-le/Video-Anomaly-Detection) ⭐ 140 | 🐛 0 | 🌐 Python | 📅 2025-08-15: a curated list of video anomaly detection papers. <a id='VAD-table'></a>    ![New](https://img.shields.io/badge/New⭐-417FFA)
 
 [awesome-video-anomaly-detection](https://github.com/fjchange/awesome-video-anomaly-detection) ⭐ 668 | 🐛 3 | 📅 2022-09-20: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.
 
@@ -922,7 +922,7 @@ ICCV '25 [[paper]()]
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,903 | 🐛 9 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,377 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,378 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
