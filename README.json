@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "jqtangust",
             "repo": "hawk",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1140,7 +1140,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9379,
+            "stars": 9380,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:59:11.932Z",
+    "last_updated": "2026-09-12T21:41:40.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",

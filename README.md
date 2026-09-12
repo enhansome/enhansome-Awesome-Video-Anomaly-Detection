@@ -56,7 +56,7 @@ ICCV '25 [[paper]()]
 
 1. \[HAWK] **HAWK: Learning to Understand Open-World Video Anomalies** <a id='HAWK'></a> \
    ![LLM](https://img.shields.io/badge/LLM-FFA500) ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-   NeurIPS '24 \[[paper](https://github.com/jqtangust/hawk) ⭐ 224 | 🐛 2 | 🌐 Python | 📅 2025-04-14]\[[code](https://github.com/jqtangust/hawk) ⭐ 224 | 🐛 2 | 🌐 Python | 📅 2025-04-14]\[[annotation](https://drive.google.com/file/d/1WCnizldWZvtS4Yg5SX7ay5C3kUQfz-Eg/view)]
+   NeurIPS '24 \[[paper](https://github.com/jqtangust/hawk) ⭐ 225 | 🐛 2 | 🌐 Python | 📅 2025-04-14]\[[code](https://github.com/jqtangust/hawk) ⭐ 225 | 🐛 2 | 🌐 Python | 📅 2025-04-14]\[[annotation](https://drive.google.com/file/d/1WCnizldWZvtS4Yg5SX7ay5C3kUQfz-Eg/view)]
 
 2. \[LAVAD] **Harnessing Large Language Models for Training-free Video Anomaly Detection** \
    ![LLM](https://img.shields.io/badge/LLM-FFA500)\
@@ -922,7 +922,7 @@ ICCV '25 [[paper]()]
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,903 | 🐛 9 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,379 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,380 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
