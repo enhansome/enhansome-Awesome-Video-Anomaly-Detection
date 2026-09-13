@@ -240,7 +240,7 @@ ICCV '25 [[paper]()]
    ACM MM '24 \[[paper](https://openreview.net/pdf?id=g7zkmttvJp)]\[[code](https://github.com/molu-ggg/GENet) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2024-12-03]\[[OpenReview](https://openreview.net/forum?id=g7zkmttvJp)]
 
 10. \[ADSM] **Autoregressive Denoising Score Matching is a Good Video Anomaly Detector** <a id='ADSM'></a>   ![New](https://img.shields.io/badge/New⭐-417FFA) \
-    ICCV '25 \[[paper](https://arxiv.org/pdf/2506.23282)]\[[code](https://github.com/Bbeholder/ADSM) ⭐ 2 | 🐛 1 | 📅 2025-07-01]
+    ICCV '25 \[[paper](https://arxiv.org/pdf/2506.23282)]\[[code](https://github.com/Bbeholder/ADSM)]
 
 11. \[SFN-VAD] **MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection** <a id='SFN-VAD'></a>   ![New](https://img.shields.io/badge/New⭐-417FFA)\
     arXiv '25 \[[paper](https://arxiv.org/pdf/2506.02535)]\[[project](https://qzfm.github.io/sfn_vad_project_page/)]
@@ -285,7 +285,7 @@ ICCV '25 [[paper]()]
 ## 📑 Surveys
 
 1. \[GNN4TS] **A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection** \
-   T-PAMI '24 \[[paper](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 864 | 🐛 3 | 📅 2024-08-09]\[[repo](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 864 | 🐛 3 | 📅 2024-08-09]
+   T-PAMI '24 \[[paper](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 865 | 🐛 3 | 📅 2024-08-09]\[[repo](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 865 | 🐛 3 | 📅 2024-08-09]
 
 2. \[WVAD-Review] **Weakly Supervised Anomaly Detection: A Survey** \
    arXiv '23 \[[paper](https://arxiv.org/pdf/2302.04549)]\[[repo](https://github.com/yzhao062/wsad) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-02-18]
@@ -922,7 +922,7 @@ ICCV '25 [[paper]()]
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,903 | 🐛 9 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,380 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,381 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
