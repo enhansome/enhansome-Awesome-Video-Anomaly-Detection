@@ -3,10 +3,10 @@
 ![GitHub License](https://img.shields.io/github/license/Junxi-Chen/Awesome-Video-Anomaly-Detection)
 ![Awesome](https://awesome.re/badge.svg)
 
-Video anomaly detection (VAD) aims to identify, understand and describe anomalous events in videos. This repository collects the latest research papers, code, datasets, seminars, utilities and related resources for VAD, ***updated every Friday***. Like this repo😄? ⭐ it and feel free to open an [issue](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/issues) ⭐ 154 | 🐛 4 | 🌐 Python | 📅 2025-07-24 for feedback.
+Video anomaly detection (VAD) aims to identify, understand and describe anomalous events in videos. This repository collects the latest research papers, code, datasets, seminars, utilities and related resources for VAD, ***updated every Friday***. Like this repo😄? ⭐ it and feel free to open an [issue](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/issues) ⭐ 155 | 🐛 4 | 🌐 Python | 📅 2025-07-24 for feedback.
 
 > \[!note]
-> Welcome to nominate VAD papers or related resources via [pull request](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/pulls) ⭐ 154 | 🐛 4 | 🌐 Python | 📅 2025-07-24! Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+> Welcome to nominate VAD papers or related resources via [pull request](https://github.com/Junxi-Chen/Awesome-Video-Anomaly-Detection/pulls) ⭐ 155 | 🐛 4 | 🌐 Python | 📅 2025-07-24! Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ## 📌 Contents
 
@@ -908,7 +908,7 @@ ICCV '25 [[paper]()]
 
 ## 🛠️ Utilities
 
-\[Video & Audio Feature Extraction]: [video\_features](https://github.com/v-iashin/video_features) ⭐ 657 | 🐛 27 | 🌐 Python | 📅 2026-02-01 allows you to extract features from video clips, supporting a variety of modalities and extractors, i.e., S3D, R(2+1)d RGB,  I3D-Net RGB + Flow, VGGish, CLIP.
+\[Video & Audio Feature Extraction]: [video\_features](https://github.com/v-iashin/video_features) ⭐ 658 | 🐛 27 | 🌐 Python | 📅 2026-02-01 allows you to extract features from video clips, supporting a variety of modalities and extractors, i.e., S3D, R(2+1)d RGB,  I3D-Net RGB + Flow, VGGish, CLIP.
 
 ## 🔗 Related Repositories
 
@@ -922,7 +922,7 @@ ICCV '25 [[paper]()]
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,905 | 🐛 9 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,382 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,384 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
