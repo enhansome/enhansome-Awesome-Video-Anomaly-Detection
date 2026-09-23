@@ -285,7 +285,7 @@ ICCV '25 [[paper]()]
 ## 📑 Surveys
 
 1. \[GNN4TS] **A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection** \
-   T-PAMI '24 \[[paper](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 865 | 🐛 3 | 📅 2024-08-09]\[[repo](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 865 | 🐛 3 | 📅 2024-08-09]
+   T-PAMI '24 \[[paper](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 866 | 🐛 3 | 📅 2024-08-09]\[[repo](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 866 | 🐛 3 | 📅 2024-08-09]
 
 2. \[WVAD-Review] **Weakly Supervised Anomaly Detection: A Survey** \
    arXiv '23 \[[paper](https://arxiv.org/pdf/2302.04549)]\[[repo](https://github.com/yzhao062/wsad) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-02-18]
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

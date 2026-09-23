@@ -818,7 +818,7 @@
             "open_issues": 3,
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 865,
+            "stars": 866,
             "topics": [
               "awesome",
               "dynamic-graphs",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T22:25:52.064Z",
+    "last_updated": "2026-09-23T22:27:44.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
