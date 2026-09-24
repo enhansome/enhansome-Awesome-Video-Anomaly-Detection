@@ -68,7 +68,7 @@
             "open_issues": 15,
             "owner": "pipixin321",
             "repo": "HolmesVAU",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "benchmarks",
               "instruction-tuning",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:27:44.474Z",
+    "last_updated": "2026-09-24T22:44:34.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",

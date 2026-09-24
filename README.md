@@ -64,7 +64,7 @@ ICCV '25 [[paper]()]
 
 3. \[Holmes-VAU] **Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity** <a id='Holmes-VAU'></a> \
    ![LLM](https://img.shields.io/badge/LLM-FFA500) ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-   CVPR '25 \[[paper](https://arxiv.org/pdf/2412.06171)]\[[code & annotation](https://github.com/pipixin321/HolmesVAU) ⭐ 146 | 🐛 15 | 🌐 Python | 📅 2025-03-25]
+   CVPR '25 \[[paper](https://arxiv.org/pdf/2412.06171)]\[[code & annotation](https://github.com/pipixin321/HolmesVAU) ⭐ 147 | 🐛 15 | 🌐 Python | 📅 2025-03-25]
 
 4. \[AnomalyRuler] **Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models** \
    ![LLM](https://img.shields.io/badge/LLM-FFA500)\
@@ -908,7 +908,7 @@ ICCV '25 [[paper]()]
 
 ## 🛠️ Utilities
 
-\[Video & Audio Feature Extraction]: [video\_features](https://github.com/v-iashin/video_features) ⭐ 658 | 🐛 27 | 🌐 Python | 📅 2026-02-01 allows you to extract features from video clips, supporting a variety of modalities and extractors, i.e., S3D, R(2+1)d RGB,  I3D-Net RGB + Flow, VGGish, CLIP.
+\[Video & Audio Feature Extraction]: [video\_features](https://github.com/v-iashin/video_features) ⭐ 659 | 🐛 27 | 🌐 Python | 📅 2026-02-01 allows you to extract features from video clips, supporting a variety of modalities and extractors, i.e., S3D, R(2+1)d RGB,  I3D-Net RGB + Flow, VGGish, CLIP.
 
 ## 🔗 Related Repositories
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
