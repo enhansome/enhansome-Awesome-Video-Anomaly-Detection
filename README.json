@@ -1036,7 +1036,7 @@
             "open_issues": 3,
             "owner": "fjchange",
             "repo": "awesome-video-anomaly-detection",
-            "stars": 668,
+            "stars": 669,
             "topics": [
               "abnormal-events",
               "anomalies",
@@ -1085,7 +1085,7 @@
             "language": null,
             "license": null,
             "last_commit": "2022-09-20T09:33:40Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
             "stars": 2909,
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9395,
+            "stars": 9396,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:50:09.866Z",
+    "last_updated": "2026-09-26T22:12:50.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",

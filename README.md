@@ -916,13 +916,13 @@ ICCV '25 [[paper]()]
 
 [Video-Anomaly-Detection](https://github.com/vt-le/Video-Anomaly-Detection) ⭐ 140 | 🐛 0 | 🌐 Python | 📅 2025-08-15: a curated list of video anomaly detection papers. <a id='VAD-table'></a>    ![New](https://img.shields.io/badge/New⭐-417FFA)
 
-[awesome-video-anomaly-detection](https://github.com/fjchange/awesome-video-anomaly-detection) ⭐ 668 | 🐛 3 | 📅 2022-09-20: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.
+[awesome-video-anomaly-detection](https://github.com/fjchange/awesome-video-anomaly-detection) ⭐ 669 | 🐛 3 | 📅 2022-09-20: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.
 
 [WSAD](https://github.com/yzhao062/wsad) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-02-18: a comprehensive collection and categorization of weakly supervised anomaly detection papers.
 
-[awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,909 | 🐛 9 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
+[awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,909 | 🐛 10 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,395 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,396 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
