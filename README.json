@@ -96,28 +96,7 @@
             "open_issues": 5,
             "owner": "Yuchen413",
             "repo": "AnomalyRuler",
-            "stars": 106,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:28:12.306Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[CUVA] Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly CVPR '24 [paper",
-          "description": "][code & dataset][supp]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR 2024] Official repository of the paper \"Uncovering What, Why and How:  A Comprehensive Benchmark for Causation Understanding of Video Anomaly\" ",
-            "homepage": null,
-            "id": 766867468,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-04-14T02:04:03Z",
-            "open_issues": 1,
-            "owner": "fesvhtr",
-            "repo": "CUVA",
-            "stars": 88,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -144,6 +123,27 @@
               "video-anomaly-detection",
               "vision-language-models"
             ]
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
+        },
+        {
+          "node_type": "item",
+          "title": "[CUVA] Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly CVPR '24 [paper",
+          "description": "][code & dataset][supp]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CVPR 2024] Official repository of the paper \"Uncovering What, Why and How:  A Comprehensive Benchmark for Causation Understanding of Video Anomaly\" ",
+            "homepage": null,
+            "id": 766867468,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-14T02:04:03Z",
+            "open_issues": 1,
+            "owner": "fesvhtr",
+            "repo": "CUVA",
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -524,10 +524,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-12-28T04:29:02Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
-            "stars": 276,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -722,7 +722,7 @@
             "open_issues": 2,
             "owner": "aleflabo",
             "repo": "MoCoDAD",
-            "stars": 93,
+            "stars": 92,
             "topics": [
               "anomaly-detection",
               "artificial-intelligence",
@@ -855,7 +855,7 @@
             "open_issues": 1,
             "owner": "Minqi824",
             "repo": "WSAD",
-            "stars": 185,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1067,7 +1067,7 @@
             "open_issues": 1,
             "owner": "Minqi824",
             "repo": "WSAD",
-            "stars": 185,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9396,
+            "stars": 9397,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:12:50.602Z",
+    "last_updated": "2026-09-27T22:35:36.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",

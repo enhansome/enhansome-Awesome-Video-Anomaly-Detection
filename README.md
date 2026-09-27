@@ -68,15 +68,15 @@ ICCV '25 [[paper]()]
 
 4. \[AnomalyRuler] **Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models** \
    ![LLM](https://img.shields.io/badge/LLM-FFA500)\
-   ECCV '24 \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10568.pdf)]\[[code](https://github.com/Yuchen413/AnomalyRuler) ⭐ 106 | 🐛 5 | 🌐 Python | 📅 2024-12-16]
+   ECCV '24 \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10568.pdf)]\[[code](https://github.com/Yuchen413/AnomalyRuler) ⭐ 107 | 🐛 5 | 🌐 Python | 📅 2024-12-16]
 
-5. \[CUVA] **Uncovering What, Why and How:  A Comprehensive Benchmark for Causation Understanding of Video Anomaly** \
-   ![LLM](https://img.shields.io/badge/LLM-FFA500) ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Du_Uncovering_What_Why_and_How_A_Comprehensive_Benchmark_for_Causation_CVPR_2024_paper.pdf)]\[[code & dataset](https://github.com/fesvhtr/CUVA) ⭐ 88 | 🐛 1 | 🌐 Python | 📅 2026-04-14]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/html/Du_Uncovering_What_Why_and_How_A_Comprehensive_Benchmark_for_Causation_CVPR_2024_paper.html)]
-
-6. \[VERA] **VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models**  <a id='VERA'></a>   ![New](https://img.shields.io/badge/New⭐-417FFA) \
+5. \[VERA] **VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models**  <a id='VERA'></a>   ![New](https://img.shields.io/badge/New⭐-417FFA) \
    ![LLM](https://img.shields.io/badge/LLM-FFA500) \
    CVPR '25 \[[paper](https://arxiv.org/pdf/2412.01095)]\[[code](https://github.com/vera-framework/VERA) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2026-03-23]\[[project](https://vera-framework.github.io)]
+
+6. \[CUVA] **Uncovering What, Why and How:  A Comprehensive Benchmark for Causation Understanding of Video Anomaly** \
+   ![LLM](https://img.shields.io/badge/LLM-FFA500) ![benchmark](https://img.shields.io/badge/benchmark-548389) \
+   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Du_Uncovering_What_Why_and_How_A_Comprehensive_Benchmark_for_Causation_CVPR_2024_paper.pdf)]\[[code & dataset](https://github.com/fesvhtr/CUVA) ⭐ 87 | 🐛 1 | 🌐 Python | 📅 2026-04-14]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/html/Du_Uncovering_What_Why_and_How_A_Comprehensive_Benchmark_for_Causation_CVPR_2024_paper.html)]
 
 7. \[UCA] **Towards Surveillance Video-and-Language Understanding: New Dataset, Baselines, and Challenges** <a id='UCA'></a> \
    ![benchmark](https://img.shields.io/badge/benchmark-548389) \
@@ -210,7 +210,7 @@ ICCV '25 [[paper]()]
 ## 📃 Semi-supervised VAD Papers
 
 1. \[DoTA] **DoTA: Unsupervised Detection of Traffic Anomaly in Driving Videos** \
-   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 276 | 🐛 21 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
+   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 275 | 🐛 22 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
 
 2. \[AED-MAE] **Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors** <a id="AED-MAE"></a> \
    CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf)]\[[code](https://github.com/ristea/aed-mae/tree/main) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2024-11-28]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Ristea_Self-Distilled_Masked_Auto-Encoders_CVPR_2024_supplemental.pdf)]
@@ -259,7 +259,7 @@ ICCV '25 [[paper]()]
 ## 📃 Skeleton-based Papers
 
 1. \[MoCoDAD] **Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection** <a id='MoCoDAD'></a> \
-   ICCV '23 \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Flaborea_Multimodal_Motion_Conditioned_Diffusion_Model_for_Skeleton-based_Video_Anomaly_Detection_ICCV_2023_paper.pdf)]\[[code](https://github.com/aleflabo/MoCoDAD) ⭐ 93 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-05-17]\[[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Flaborea_Multimodal_Motion_Conditioned_ICCV_2023_supplemental.pdf)]
+   ICCV '23 \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Flaborea_Multimodal_Motion_Conditioned_Diffusion_Model_for_Skeleton-based_Video_Anomaly_Detection_ICCV_2023_paper.pdf)]\[[code](https://github.com/aleflabo/MoCoDAD) ⭐ 92 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-05-17]\[[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Flaborea_Multimodal_Motion_Conditioned_ICCV_2023_supplemental.pdf)]
 
 2. \[SeeKer] **Sequential keypoint density estimator:an overlooked baseline of skeleton-based video anomaly detection**<a id='SeeKer'></a>   ![New](https://img.shields.io/badge/New⭐-417FFA) \
    ICCV '25 \[[paper](https://arxiv.org/pdf/2506.18368)]\[[code](https://github.com/adelic99/seeker) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2025-10-14]
@@ -288,7 +288,7 @@ ICCV '25 [[paper]()]
    T-PAMI '24 \[[paper](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 866 | 🐛 3 | 📅 2024-08-09]\[[repo](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 866 | 🐛 3 | 📅 2024-08-09]
 
 2. \[WVAD-Review] **Weakly Supervised Anomaly Detection: A Survey** \
-   arXiv '23 \[[paper](https://arxiv.org/pdf/2302.04549)]\[[repo](https://github.com/yzhao062/wsad) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-02-18]
+   arXiv '23 \[[paper](https://arxiv.org/pdf/2302.04549)]\[[repo](https://github.com/yzhao062/wsad) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2025-02-18]
 
 3. \[MSAD] **Advancing Video Anomaly Detection: A Concise Review and a New Dataset** <a id="review-and-dataset"></a> \
    NeurIPS '24 \[[paper](https://papers.nips.cc/paper_files/paper/2024/file/a3c5af1f56fc73eef1ba0f442739f5ca-Paper-Datasets_and_Benchmarks_Track.pdf)]\[[project](https://msad-dataset.github.io)]
@@ -918,11 +918,11 @@ ICCV '25 [[paper]()]
 
 [awesome-video-anomaly-detection](https://github.com/fjchange/awesome-video-anomaly-detection) ⭐ 669 | 🐛 3 | 📅 2022-09-20: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.
 
-[WSAD](https://github.com/yzhao062/wsad) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-02-18: a comprehensive collection and categorization of weakly supervised anomaly detection papers.
+[WSAD](https://github.com/yzhao062/wsad) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2025-02-18: a comprehensive collection and categorization of weakly supervised anomaly detection papers.
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,909 | 🐛 10 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,396 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,397 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
