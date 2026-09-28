@@ -905,7 +905,7 @@
                 "open_issues": 3,
                 "owner": "lilygeorgescu",
                 "repo": "UBnormal",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "anomaly-detection",
                   "computer-vision",
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9397,
+            "stars": 9401,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:35:36.200Z",
+    "last_updated": "2026-09-28T23:57:52.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
