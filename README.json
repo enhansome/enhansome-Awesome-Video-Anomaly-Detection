@@ -351,7 +351,7 @@
             "open_issues": 16,
             "owner": "jx-zhong-for-academic-purpose",
             "repo": "GCN-Anomaly-Detection",
-            "stars": 240,
+            "stars": 241,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1036,7 +1036,7 @@
             "open_issues": 3,
             "owner": "fjchange",
             "repo": "awesome-video-anomaly-detection",
-            "stars": 669,
+            "stars": 670,
             "topics": [
               "abnormal-events",
               "anomalies",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:13:17.515Z",
+    "last_updated": "2026-10-01T23:26:28.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",

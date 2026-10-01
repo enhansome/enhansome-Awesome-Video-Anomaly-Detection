@@ -139,7 +139,7 @@ ICCV '25 [[paper]()]
 -->
 
 1. \[ADGCN] **Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection** <a id='Plug-and-play'></a>\
-   CVPR 19' \[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.pdf)]\[[code](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection) ⭐ 240 | 🐛 16 | 🌐 Python | 📅 2022-07-26]
+   CVPR 19' \[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.pdf)]\[[code](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection) ⭐ 241 | 🐛 16 | 🌐 Python | 📅 2022-07-26]
 
 2. \[ECU] **Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection** <a id='ECU'></a>\
    ![I3D](https://img.shields.io/badge/I3D-35BF5C)\
@@ -916,7 +916,7 @@ ICCV '25 [[paper]()]
 
 [Video-Anomaly-Detection](https://github.com/vt-le/Video-Anomaly-Detection) ⭐ 140 | 🐛 0 | 🌐 Python | 📅 2025-08-15: a curated list of video anomaly detection papers. <a id='VAD-table'></a>    ![New](https://img.shields.io/badge/New⭐-417FFA)
 
-[awesome-video-anomaly-detection](https://github.com/fjchange/awesome-video-anomaly-detection) ⭐ 669 | 🐛 3 | 📅 2022-09-20: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.
+[awesome-video-anomaly-detection](https://github.com/fjchange/awesome-video-anomaly-detection) ⭐ 670 | 🐛 3 | 📅 2022-09-20: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.
 
 [WSAD](https://github.com/yzhao062/wsad) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2025-02-18: a comprehensive collection and categorization of weakly supervised anomaly detection papers.
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
