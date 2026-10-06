@@ -914,7 +914,7 @@ ICCV '25 [[paper]()]
 
 [uws4vad-wiki](https://github.com/zuble/uws4vad/wiki/Meth) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-23: a comprehensive benchmark table for VAD datasets and methods, frequently updated. <a id='uws4vad'></a>    ![New](https://img.shields.io/badge/New⭐-417FFA)
 
-[Video-Anomaly-Detection](https://github.com/vt-le/Video-Anomaly-Detection) ⭐ 140 | 🐛 0 | 🌐 Python | 📅 2025-08-15: a curated list of video anomaly detection papers. <a id='VAD-table'></a>    ![New](https://img.shields.io/badge/New⭐-417FFA)
+[Video-Anomaly-Detection](https://github.com/vt-le/Video-Anomaly-Detection) ⭐ 141 | 🐛 0 | 🌐 Python | 📅 2025-08-15: a curated list of video anomaly detection papers. <a id='VAD-table'></a>    ![New](https://img.shields.io/badge/New⭐-417FFA)
 
 [awesome-video-anomaly-detection](https://github.com/fjchange/awesome-video-anomaly-detection) ⭐ 670 | 🐛 3 | 📅 2022-09-20: an awesome collection of papers and codes for video anomaly detection, updated to CVPR '22.
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
