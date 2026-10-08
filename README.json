@@ -47,7 +47,7 @@
             "open_issues": 3,
             "owner": "lucazanella",
             "repo": "lavad",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -68,7 +68,7 @@
             "open_issues": 15,
             "owner": "pipixin321",
             "repo": "HolmesVAU",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "benchmarks",
               "instruction-tuning",
@@ -432,7 +432,7 @@
                 "open_issues": 31,
                 "owner": "nwpu-zxr",
                 "repo": "VadCLIP",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
@@ -545,7 +545,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-11-28T23:23:17Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "ristea",
             "repo": "aed-mae",
             "stars": 57,
@@ -1088,7 +1088,7 @@
             "open_issues": 10,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2911,
+            "stars": 2913,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:51:33.990Z",
+    "last_updated": "2026-10-08T23:58:17.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
@@ -1159,7 +1159,7 @@
       "open_issues": 4,
       "owner": "Junxi-Chen",
       "repo": "Awesome-Video-Anomaly-Detection",
-      "stars": 157,
+      "stars": 158,
       "topics": [
         "anomaly-detection",
         "awesome",
