@@ -187,7 +187,7 @@ ICCV '25 [[paper]()]
    ![I3D](https://img.shields.io/badge/I3D-35BF5C)
    ![CLIP-T](https://img.shields.io/badge/CLIP--T-C3B9FA)
    ![with-Audio](https://img.shields.io/badge/with--Audio-00B2FF)\
-   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf)]\[[code](https://github.com/Junxi-Chen/PE-MIL) ⭐ 27 | 🐛 6 | 📅 2024-08-19]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Chen_Prompt-Enhanced_Multiple_Instance_CVPR_2024_supplemental.pdf)]
+   CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf)]\[[code](https://github.com/Junxi-Chen/PE-MIL) ⭐ 27 | 🐛 7 | 📅 2024-08-19]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Chen_Prompt-Enhanced_Multiple_Instance_CVPR_2024_supplemental.pdf)]
 
 5. \[π-VAD] **Just Dance with $\pi$! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection** <a id='pi-VAD'></a>   ![New](https://img.shields.io/badge/New⭐-417FFA)\
    ![I3D](https://img.shields.io/badge/I3D-35BF5C) ![CLIP-T](https://img.shields.io/badge/CLIP--T-C3B9FA) \
@@ -920,9 +920,9 @@ ICCV '25 [[paper]()]
 
 [WSAD](https://github.com/yzhao062/wsad) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2025-02-18: a comprehensive collection and categorization of weakly supervised anomaly detection papers.
 
-[awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,913 | 🐛 10 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
+[awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,914 | 🐛 10 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,411 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,412 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

@@ -492,7 +492,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-08-19T08:26:50Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "Junxi-Chen",
                 "repo": "PE-MIL",
                 "stars": 27,
@@ -1088,7 +1088,7 @@
             "open_issues": 10,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2913,
+            "stars": 2914,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9411,
+            "stars": 9412,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:58:17.231Z",
+    "last_updated": "2026-10-09T23:33:47.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
@@ -1159,7 +1159,7 @@
       "open_issues": 4,
       "owner": "Junxi-Chen",
       "repo": "Awesome-Video-Anomaly-Detection",
-      "stars": 158,
+      "stars": 159,
       "topics": [
         "anomaly-detection",
         "awesome",
