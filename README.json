@@ -527,7 +527,7 @@
             "open_issues": 23,
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
-            "stars": 279,
+            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -590,7 +590,7 @@
             "open_issues": 1,
             "owner": "zugexiaodui",
             "repo": "campus_vad_code",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -905,7 +905,7 @@
                 "open_issues": 3,
                 "owner": "lilygeorgescu",
                 "repo": "UBnormal",
-                "stars": 105,
+                "stars": 104,
                 "topics": [
                   "anomaly-detection",
                   "computer-vision",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:33:47.348Z",
+    "last_updated": "2026-10-10T22:58:12.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
@@ -1159,7 +1159,7 @@
       "open_issues": 4,
       "owner": "Junxi-Chen",
       "repo": "Awesome-Video-Anomaly-Detection",
-      "stars": 159,
+      "stars": 158,
       "topics": [
         "anomaly-detection",
         "awesome",
