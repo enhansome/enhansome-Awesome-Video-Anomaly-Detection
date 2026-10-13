@@ -64,7 +64,7 @@ ICCV '25 [[paper]()]
 
 3. \[Holmes-VAU] **Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity** <a id='Holmes-VAU'></a> \
    ![LLM](https://img.shields.io/badge/LLM-FFA500) ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-   CVPR '25 \[[paper](https://arxiv.org/pdf/2412.06171)]\[[code & annotation](https://github.com/pipixin321/HolmesVAU) ⭐ 149 | 🐛 15 | 🌐 Python | 📅 2025-03-25]
+   CVPR '25 \[[paper](https://arxiv.org/pdf/2412.06171)]\[[code & annotation](https://github.com/pipixin321/HolmesVAU) ⭐ 150 | 🐛 15 | 🌐 Python | 📅 2025-03-25]
 
 4. \[AnomalyRuler] **Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models** \
    ![LLM](https://img.shields.io/badge/LLM-FFA500)\
@@ -226,7 +226,7 @@ ICCV '25 [[paper]()]
    CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf)]\[[code](https://github.com/AnasEmad11/CLAP) ⭐ 23 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-09]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Al-lahham_Collaborative_Learning_of_CVPR_2024_supplemental.pdf)]
 
 6. \[MA-PDM] **Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model** <a id='MA-PDM'></a>   ![New](https://img.shields.io/badge/New⭐-417FFA)\
-   AAAI '25 \[[paper](https://arxiv.org/pdf/2412.09026)]\[[code](https://github.com/henrryzh1/MA-PDM/) ⭐ 17 | 🐛 4 | 🌐 Python | 📅 2025-04-14]
+   AAAI '25 \[[paper](https://arxiv.org/pdf/2412.09026)]\[[code](https://github.com/henrryzh1/MA-PDM/) ⭐ 18 | 🐛 4 | 🌐 Python | 📅 2025-04-14]
 
 7. \[Joint-VAD] **Interleaving One-Class and Weakly-Supervised Models with Adaptive Thresholding for Unsupervised Video Anomaly Detection** \
    ![I3D](https://img.shields.io/badge/I3D-35BF5C)\
@@ -922,7 +922,7 @@ ICCV '25 [[paper]()]
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,917 | 🐛 10 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,415 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,413 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
