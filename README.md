@@ -210,7 +210,7 @@ ICCV '25 [[paper]()]
 ## 📃 Semi-supervised VAD Papers
 
 1. \[DoTA] **DoTA: Unsupervised Detection of Traffic Anomaly in Driving Videos** \
-   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 281 | 🐛 23 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
+   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 280 | 🐛 23 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
 
 2. \[AED-MAE] **Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors** <a id="AED-MAE"></a> \
    CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf)]\[[code](https://github.com/ristea/aed-mae/tree/main) ⭐ 57 | 🐛 12 | 🌐 Python | 📅 2024-11-28]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Ristea_Self-Distilled_Masked_Auto-Encoders_CVPR_2024_supplemental.pdf)]
@@ -230,7 +230,7 @@ ICCV '25 [[paper]()]
 
 7. \[Joint-VAD] **Interleaving One-Class and Weakly-Supervised Models with Adaptive Thresholding for Unsupervised Video Anomaly Detection** \
    ![I3D](https://img.shields.io/badge/I3D-35BF5C)\
-   ECCV '24 \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04450.pdf)]\[[code](https://github.com/benedictstar/Joint-VAD) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2025-10-25]
+   ECCV '24 \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04450.pdf)]\[[code](https://github.com/benedictstar/Joint-VAD) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-10-25]
 
 8. \[LPGB] **Local Patterns Generalize Better for Novel Anomalies** \
    ICLR '25 \[[paper](https://openreview.net/pdf?id=4ua4wyAQLm)]\[[code](https://github.com/AllenYLJiang/Local-Patterns-Generalize-Better/) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-11-19]\[[OpenReview](https://openreview.net/forum?id=4ua4wyAQLm)]
@@ -922,7 +922,7 @@ ICCV '25 [[paper]()]
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,917 | 🐛 10 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,413 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,412 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

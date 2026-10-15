@@ -527,7 +527,7 @@
             "open_issues": 23,
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
-            "stars": 281,
+            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -650,7 +650,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-10-25T13:12:39Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "benedictstar",
             "repo": "Joint-VAD",
             "stars": 10,
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9413,
+            "stars": 9412,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:40:47.398Z",
+    "last_updated": "2026-10-15T22:41:09.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
