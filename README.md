@@ -170,7 +170,7 @@ ICCV '25 [[paper]()]
 1. \[Vadclip] **Vadclip: Adapting vision-language models for weakly supervised video anomaly detection** <a id='Vadclip'></a> \
    ![CLIP-V](https://img.shields.io/badge/CLIP--V-6d4aff)
    ![CLIP-T](https://img.shields.io/badge/CLIP--T-C3B9FA)\
-   AAAI '24 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/28423/28826)]\[[code](https://github.com/nwpu-zxr/VadCLIP) ⭐ 242 | 🐛 31 | 🌐 Python | 📅 2024-03-10]
+   AAAI '24 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/28423/28826)]\[[code](https://github.com/nwpu-zxr/VadCLIP) ⭐ 243 | 🐛 31 | 🌐 Python | 📅 2024-03-10]
 
 2. \[PEL4VAD] **Learning Prompt-Enhanced Context features for Weakly-Supervised Video Anomaly Detection** \
    ![I3D](https://img.shields.io/badge/I3D-35BF5C)
@@ -922,7 +922,7 @@ ICCV '25 [[paper]()]
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,917 | 🐛 10 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,414 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,419 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

@@ -432,7 +432,7 @@
                 "open_issues": 31,
                 "owner": "nwpu-zxr",
                 "repo": "VadCLIP",
-                "stars": 242,
+                "stars": 243,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9414,
+            "stars": 9419,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:46:26.809Z",
+    "last_updated": "2026-10-18T21:55:16.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
