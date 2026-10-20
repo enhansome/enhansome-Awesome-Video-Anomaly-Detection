@@ -47,7 +47,7 @@
             "open_issues": 3,
             "owner": "lucazanella",
             "repo": "lavad",
-            "stars": 152,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -117,7 +117,7 @@
             "open_issues": 0,
             "owner": "vera-framework",
             "repo": "VERA",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "automatic-prompt-tuning",
               "video-anomaly-detection",
@@ -432,7 +432,7 @@
                 "open_issues": 31,
                 "owner": "nwpu-zxr",
                 "repo": "VadCLIP",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
@@ -527,7 +527,7 @@
             "open_issues": 23,
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
-            "stars": 280,
+            "stars": 281,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -905,7 +905,7 @@
                 "open_issues": 3,
                 "owner": "lilygeorgescu",
                 "repo": "UBnormal",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "anomaly-detection",
                   "computer-vision",
@@ -1088,7 +1088,7 @@
             "open_issues": 10,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2917,
+            "stars": 2918,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9418,
+            "stars": 9419,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:07:01.738Z",
+    "last_updated": "2026-10-20T22:42:49.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
