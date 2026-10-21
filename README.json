@@ -432,7 +432,7 @@
                 "open_issues": 31,
                 "owner": "nwpu-zxr",
                 "repo": "VadCLIP",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
@@ -608,7 +608,7 @@
             "language": "Jupyter Notebook",
             "license": "GPL-2.0",
             "last_commit": "2026-09-09T15:55:07Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "AnasEmad11",
             "repo": "CLAP",
             "stars": 23,
@@ -1088,7 +1088,7 @@
             "open_issues": 10,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2918,
+            "stars": 2919,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9419,
+            "stars": 9420,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:42:49.744Z",
+    "last_updated": "2026-10-21T22:48:21.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
