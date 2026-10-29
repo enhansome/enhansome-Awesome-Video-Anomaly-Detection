@@ -93,7 +93,7 @@ ICCV '25 [[paper]()]
 
 10. \[UCF-Crime-DVS] **UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural** <a id='UCF-Crime-DVS'></a> \
     ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-    \[[paper](https://arxiv.org/pdf/2503.12905v1)]\[[code & dataset](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2026-10-27]
+    \[[paper](https://arxiv.org/pdf/2503.12905v1)]\[[code & dataset](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2026-10-27]
 
 11. \[VANE-Bench] **VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs** <a id='VANE-Bench'></a> \
     ![LLM](https://img.shields.io/badge/LLM-FFA500) ![benchmark](https://img.shields.io/badge/benchmark-548389) \
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
