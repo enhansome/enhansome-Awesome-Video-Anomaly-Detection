@@ -1008,7 +1008,7 @@
             "open_issues": 0,
             "owner": "vt-le",
             "repo": "Video-Anomaly-Detection",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:17:12.182Z",
+    "last_updated": "2026-10-31T22:51:05.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
@@ -1159,7 +1159,7 @@
       "open_issues": 4,
       "owner": "Junxi-Chen",
       "repo": "Awesome-Video-Anomaly-Detection",
-      "stars": 162,
+      "stars": 163,
       "topics": [
         "anomaly-detection",
         "awesome",
