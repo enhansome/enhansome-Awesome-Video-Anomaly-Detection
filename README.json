@@ -432,7 +432,7 @@
                 "open_issues": 31,
                 "owner": "nwpu-zxr",
                 "repo": "VadCLIP",
-                "stars": 245,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.306Z"
@@ -653,7 +653,7 @@
             "open_issues": 2,
             "owner": "benedictstar",
             "repo": "Joint-VAD",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:49:59.422Z",
+    "last_updated": "2026-11-04T00:12:55.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",

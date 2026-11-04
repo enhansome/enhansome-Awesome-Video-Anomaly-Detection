@@ -170,7 +170,7 @@ ICCV '25 [[paper]()]
 1. \[Vadclip] **Vadclip: Adapting vision-language models for weakly supervised video anomaly detection** <a id='Vadclip'></a> \
    ![CLIP-V](https://img.shields.io/badge/CLIP--V-6d4aff)
    ![CLIP-T](https://img.shields.io/badge/CLIP--T-C3B9FA)\
-   AAAI '24 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/28423/28826)]\[[code](https://github.com/nwpu-zxr/VadCLIP) ⭐ 245 | 🐛 31 | 🌐 Python | 📅 2024-03-10]
+   AAAI '24 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/28423/28826)]\[[code](https://github.com/nwpu-zxr/VadCLIP) ⭐ 247 | 🐛 31 | 🌐 Python | 📅 2024-03-10]
 
 2. \[PEL4VAD] **Learning Prompt-Enhanced Context features for Weakly-Supervised Video Anomaly Detection** \
    ![I3D](https://img.shields.io/badge/I3D-35BF5C)
@@ -230,7 +230,7 @@ ICCV '25 [[paper]()]
 
 7. \[Joint-VAD] **Interleaving One-Class and Weakly-Supervised Models with Adaptive Thresholding for Unsupervised Video Anomaly Detection** \
    ![I3D](https://img.shields.io/badge/I3D-35BF5C)\
-   ECCV '24 \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04450.pdf)]\[[code](https://github.com/benedictstar/Joint-VAD) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-10-25]
+   ECCV '24 \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04450.pdf)]\[[code](https://github.com/benedictstar/Joint-VAD) ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2025-10-25]
 
 8. \[LPGB] **Local Patterns Generalize Better for Novel Anomalies** \
    ICLR '25 \[[paper](https://openreview.net/pdf?id=4ua4wyAQLm)]\[[code](https://github.com/AllenYLJiang/Local-Patterns-Generalize-Better/) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-11-19]\[[OpenReview](https://openreview.net/forum?id=4ua4wyAQLm)]
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
