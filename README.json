@@ -746,7 +746,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-10-14T13:54:39Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "adelic99",
             "repo": "seeker",
             "stars": 16,
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9438,
+            "stars": 9440,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:12:55.453Z",
+    "last_updated": "2026-11-05T00:32:56.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
