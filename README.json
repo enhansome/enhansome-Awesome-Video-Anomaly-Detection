@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:32:56.220Z",
+    "last_updated": "2026-11-06T00:34:01.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
@@ -1156,7 +1156,7 @@
       "language": "Python",
       "license": "AGPL-3.0",
       "last_commit": "2025-07-24T05:40:11Z",
-      "open_issues": 4,
+      "open_issues": 3,
       "owner": "Junxi-Chen",
       "repo": "Awesome-Video-Anomaly-Detection",
       "stars": 164,
