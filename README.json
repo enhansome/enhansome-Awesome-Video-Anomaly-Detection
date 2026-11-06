@@ -545,7 +545,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-11-28T23:23:17Z",
-            "open_issues": 12,
+            "open_issues": 14,
             "owner": "ristea",
             "repo": "aed-mae",
             "stars": 56,
@@ -855,7 +855,7 @@
             "open_issues": 1,
             "owner": "Minqi824",
             "repo": "WSAD",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1067,7 +1067,7 @@
             "open_issues": 1,
             "owner": "Minqi824",
             "repo": "WSAD",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:34:01.098Z",
+    "last_updated": "2026-11-06T23:49:58.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
