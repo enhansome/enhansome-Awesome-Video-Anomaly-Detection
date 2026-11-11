@@ -117,7 +117,7 @@
             "open_issues": 0,
             "owner": "vera-framework",
             "repo": "VERA",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "automatic-prompt-tuning",
               "video-anomaly-detection",
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9447,
+            "stars": 9449,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:25:02.835Z",
+    "last_updated": "2026-11-11T00:15:04.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
