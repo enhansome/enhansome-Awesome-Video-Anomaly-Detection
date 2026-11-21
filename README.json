@@ -33,6 +33,34 @@
         },
         {
           "node_type": "item",
+          "title": "[Holmes-VAU] Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity CVPR '25 [paper",
+          "description": "][code & annotation]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CVPR 2025 Highlight] Official implementation of \"Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity\"",
+            "homepage": "https://arxiv.org/abs/2412.06171",
+            "id": 900597227,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-03-25T04:48:55Z",
+            "open_issues": 16,
+            "owner": "pipixin321",
+            "repo": "HolmesVAU",
+            "stars": 154,
+            "topics": [
+              "benchmarks",
+              "instruction-tuning",
+              "multi-granularity-dataset",
+              "multimodal-large-language-models",
+              "video-analysis",
+              "video-anomaly-detection"
+            ]
+          },
+          "first_seen": "2026-08-29T02:28:12.306Z"
+        },
+        {
+          "node_type": "item",
           "title": "[LAVAD] Harnessing Large Language Models for Training-free Video Anomaly Detection CVPR '24 [paper",
           "description": "][code][supp]",
           "children": [],
@@ -49,34 +77,6 @@
             "repo": "lavad",
             "stars": 154,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:28:12.306Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[Holmes-VAU] Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity CVPR '25 [paper",
-          "description": "][code & annotation]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR 2025 Highlight] Official implementation of \"Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity\"",
-            "homepage": "https://arxiv.org/abs/2412.06171",
-            "id": 900597227,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-03-25T04:48:55Z",
-            "open_issues": 16,
-            "owner": "pipixin321",
-            "repo": "HolmesVAU",
-            "stars": 153,
-            "topics": [
-              "benchmarks",
-              "instruction-tuning",
-              "multi-granularity-dataset",
-              "multimodal-large-language-models",
-              "video-analysis",
-              "video-anomaly-detection"
-            ]
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
         },
@@ -117,7 +117,7 @@
             "open_issues": 0,
             "owner": "vera-framework",
             "repo": "VERA",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "automatic-prompt-tuning",
               "video-anomaly-detection",
@@ -1088,7 +1088,7 @@
             "open_issues": 10,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2923,
+            "stars": 2924,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9455,
+            "stars": 9456,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:27:00.806Z",
+    "last_updated": "2026-11-21T00:57:50.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
