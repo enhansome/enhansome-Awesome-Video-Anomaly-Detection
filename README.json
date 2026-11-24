@@ -47,7 +47,7 @@
             "open_issues": 16,
             "owner": "pipixin321",
             "repo": "HolmesVAU",
-            "stars": 154,
+            "stars": 155,
             "topics": [
               "benchmarks",
               "instruction-tuning",
@@ -527,7 +527,7 @@
             "open_issues": 25,
             "owner": "MoonBlvd",
             "repo": "Detection-of-Traffic-Anomaly",
-            "stars": 282,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.306Z"
@@ -818,7 +818,7 @@
             "open_issues": 3,
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 867,
+            "stars": 866,
             "topics": [
               "awesome",
               "dynamic-graphs",
@@ -1119,7 +1119,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9459,
+            "stars": 9460,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:29:30.135Z",
+    "last_updated": "2026-11-24T04:27:08.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday.",
@@ -1159,7 +1159,7 @@
       "open_issues": 3,
       "owner": "Junxi-Chen",
       "repo": "Awesome-Video-Anomaly-Detection",
-      "stars": 165,
+      "stars": 164,
       "topics": [
         "anomaly-detection",
         "awesome",

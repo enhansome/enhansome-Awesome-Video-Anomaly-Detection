@@ -60,7 +60,7 @@ ICCV '25 [[paper]()]
 
 2. \[Holmes-VAU] **Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity** <a id='Holmes-VAU'></a> \
    ![LLM](https://img.shields.io/badge/LLM-FFA500) ![benchmark](https://img.shields.io/badge/benchmark-548389) \
-   CVPR '25 \[[paper](https://arxiv.org/pdf/2412.06171)]\[[code & annotation](https://github.com/pipixin321/HolmesVAU) ⭐ 154 | 🐛 16 | 🌐 Python | 📅 2025-03-25]
+   CVPR '25 \[[paper](https://arxiv.org/pdf/2412.06171)]\[[code & annotation](https://github.com/pipixin321/HolmesVAU) ⭐ 155 | 🐛 16 | 🌐 Python | 📅 2025-03-25]
 
 3. \[LAVAD] **Harnessing Large Language Models for Training-free Video Anomaly Detection** \
    ![LLM](https://img.shields.io/badge/LLM-FFA500)\
@@ -210,7 +210,7 @@ ICCV '25 [[paper]()]
 ## 📃 Semi-supervised VAD Papers
 
 1. \[DoTA] **DoTA: Unsupervised Detection of Traffic Anomaly in Driving Videos** \
-   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 282 | 🐛 25 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
+   T-PAMI '23 \[[paper](https://ieeexplore.ieee.org/document/9712446/)]\[[code](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) ⭐ 283 | 🐛 25 | 🌐 Python | 📅 2023-12-28]\[[dataset](https://drive.google.com/drive/folders/1_WzhwZC2NIpzZIpX7YCvapq66rtBc67n)]
 
 2. \[AED-MAE] **Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors** <a id="AED-MAE"></a> \
    CVPR '24 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf)]\[[code](https://github.com/ristea/aed-mae/tree/main) ⭐ 56 | 🐛 14 | 🌐 Python | 📅 2024-11-28]\[[supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Ristea_Self-Distilled_Masked_Auto-Encoders_CVPR_2024_supplemental.pdf)]
@@ -285,7 +285,7 @@ ICCV '25 [[paper]()]
 ## 📑 Surveys
 
 1. \[GNN4TS] **A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection** \
-   T-PAMI '24 \[[paper](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 867 | 🐛 3 | 📅 2024-08-09]\[[repo](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 867 | 🐛 3 | 📅 2024-08-09]
+   T-PAMI '24 \[[paper](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 866 | 🐛 3 | 📅 2024-08-09]\[[repo](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 866 | 🐛 3 | 📅 2024-08-09]
 
 2. \[WVAD-Review] **Weakly Supervised Anomaly Detection: A Survey** \
    arXiv '23 \[[paper](https://arxiv.org/pdf/2302.04549)]\[[repo](https://github.com/yzhao062/wsad) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-02-18]
@@ -922,7 +922,7 @@ ICCV '25 [[paper]()]
 
 [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,925 | 🐛 10 | 📅 2022-09-20: a curated list of awesome anomaly detection resources, including time-series anomaly detection, video-level anomaly detection, image-level anomaly detection, last updated in November 2021.
 
-[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,459 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
+[anomaly detection resources](https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file) ⭐ 9,460 | 🐛 14 | 🌐 Python | 📅 2026-03-02: a comprehensive resource for anomaly detection, featuring a wide range of papers on various domains, e.g., image, time-series, financial, and social media anomaly detection. It contains only a subset of materials specifically related to video anomaly detection.
 
 ## 🙌🏻 Acknowledgements
 
@@ -946,4 +946,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
